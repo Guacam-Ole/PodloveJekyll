@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Blathering</title>
+	<atom:link href="https://www.blathering.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.blathering.de</link>
+	<description>Der ultimative Laberpodcast</description>
+	<lastBuildDate>Tue, 30 Mar 2021 09:57:14 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/www.blathering.de/wp-content/uploads/2016/10/cropped-image-2.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Blathering</title>
+	<link>https://www.blathering.de</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">121253352</site>	<item>
+		<title>Blathering &#8211; 171 &#8211; Wendehalse</title>
+		<link>https://www.blathering.de/2021/03/blathering-171-wendehalse/</link>
+					<comments>https://www.blathering.de/2021/03/blathering-171-wendehalse/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 30 Mar 2021 09:57:14 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Wir reden über das hin- und her in der Corona-Politik, über Urlaub in Hotelzimmern, über quer stehende Pötte, neue Autobahnen und Fahrradwege, ganz viel Retro-Gaming und -Moviewatching, DLCs in Autos und über schwer zu bekommende Schwergewichte.]]></description>
+										<content:encoded><![CDATA[<p>Wir reden über das hin- und her in der Corona-Politik, über Urlaub in Hotelzimmern, über quer stehende Pötte, neue Autobahnen und Fahrradwege, ganz viel Retro-Gaming und -Moviewatching, DLCs in Autos und über schwer zu bekommende Schwergewichte.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_171.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:24.168 <a href='https://twitter.com/eliasp/status/1373597005021388803'>Tübinger Test-Temperatur</a></div>
+<div class='pscContent'>00:04:53.168 <a href='https://www.vice.com/de/article/qjp74b/aserbaidschan-affare-der-diktator-die-cdu-der-moderator-und-das-geld'>Aserbaidschan</a></div>
+<div class='pscContent'>00:06:25.168 <a href='https://twitter.com/HobbyQS/status/1374602877159804928'>Sinnvolles FSD</a></div>
+<div class='pscContent'>00:07:43.168 <a href='https://authy.com/'>2FA-Tipp: Authy</a></div>
+<div class='pscContent'>00:08:54.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-03-30%20since%3A2021-03-23&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:15:24.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-03-30%20since%3A2021-03-23&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:17:19.168 <a href='https://twitter.com/niggi/status/1375049753768124419'>Reichelt ist zurück</a></div>
+<div class='pscContent'>00:17:42.168 <a href='https://twitter.com/vvn_bda/status/1374839400295772163'>VVN-BdA auch</a></div>
+<div class='pscContent'>00:19:20.168 <a href='https://www.rnd.de/medien/bohlen-stichelt-gegen-gottschalk-warum-lispelt-der-gottschalk-so-3NZMSFV3Z5GEJFHB2IC7AWZLKY.html'>Worüber wir nicht reden</a></div>
+<div class='pscContent'>00:20:21.168 <a href='https://twitter.com/HerrNaumann/status/1374380348432257031'>Tagesschau schummelt</a></div>
+<div class='pscContent'>00:27:43.168 <a href='https://rp-online.de/panorama/coronavirus/beschlussvorlage-mpk-2203-lockdown-bis-in-den-april-geplant_aid-56928521'>Nein!</a></div>
+<div class='pscContent'>00:32:07.168 <a href='https://www.tagesschau.de/inland/innenpolitik/lockdown-beschluss-105-101.html'>Doch!</a></div>
+<div class='pscContent'>00:37:09.168 <a href='https://threadreaderapp.com/thread/1375389268206624768.html'>Oh!</a></div>
+<div class='pscContent'>00:43:54.168 <a href='https://www.zdf.de/nachrichten/politik/corona-politbarometer-lockerungen-100.html'>Stimmungsbildstörung</a></div>
+<div class='pscContent'>00:47:25.168 <a href='https://www.rnd.de/gesundheit/italien-kein-impfvorrat-impfdosen-warten-laut-astrazeneca-auf-qualitatskontrolle-M5IFX4VMD2TAVP4WKVW7DOQWVU.html'>Impffund</a></div>
+<div class='pscContent'>00:49:11.168 <a href='https://www.rnd.de/politik/emporung-auf-mallorca-nach-lauterbach-kritik-wir-sind-nicht-in-einer-bananenrepublik-ULLUUFYEP47J27HTI2X3U4643U.html'>Mallorca vs. Lauterbach</a></div>
+<div class='pscContent'>00:52:53.168 <a href='https://www.rnd.de/panorama/suezkanal-containerschiff-ever-given-ist-freigelegt-BXBSDYMVR4L76W5ZU7SEPV5JWU.html'>Immer gegeben</a></div>
+<div class='pscContent'>01:00:06.168 <a href='https://www.theguardian.com/environment/2021/mar/26/at-least-20-livestock-ships-caught-in-suez-canal-logjam'>Tiertransport, aber schwankend</a></div>
+<div class='pscContent'>01:02:44.168 <a href='https://www.sueddeutsche.de/politik/klimawandel-portugal-jugendliche-klage-1.5245950'>Portugal klagt gegen Klimawandel</a></div>
+<div class='pscContent'>01:06:17.168 <a href='https://taz.de/CDU-Politiker-Mark-Hauptmann/!5761436/'>Maskenrazzia</a></div>
+<div class='pscContent'>01:07:18.168 <a href='https://www.t-online.de/nachrichten/id_89687398/weitere-eigentumswohnung-wie-jens-spahn-mit-politik-millionen-machte.html'>Spaaahn!</a></div>
+<div class='pscContent'>01:11:05.168 <a href='https://taz.de/Wahl-in-Israel/!5761301/'>Isreal hat gewählt</a></div>
+<div class='pscContent'>01:13:42.168 <a href='https://threadreaderapp.com/thread/1376480235630252033.html'>Merkel will</a></div>
+<div class='pscContent'>01:21:13.168 <a href='https://uebermedien.de/58613/der-lovemobil-skandal-wie-konnte-es-dazu-kommen/'>Liebesmobil</a></div>
+<div class='pscContent'>01:27:38.168 <a href='https://de.wikipedia.org/wiki/Uta_Ranke-Heinemann'>Uta Ranke-Heinemann</a></div>
+<div class='pscContent'>01:30:32.168 <a href='https://www.ndr.de/nachrichten/hamburg/Corona-Warnung-Tschentscher-in-haeuslicher-Selbstisolation,tschentscher892.html'>Tschenscher in Isolation</a></div>
+<div class='pscContent'>01:31:23.168 <a href='https://www.hamburg.de/coronavirus/14985902/2021-03-26-sozialbehoerde-corona-eindaemmungsverordnung/'>Maskenpflicht im Auto</a></div>
+<div class='pscContent'>01:34:10.168 <a href='https://www.hamburg.de/bsb/pressemitteilungen/14981098/2021-03-23-bsb-schnelltestausweitung/'>Tests machen Schule</a></div>
+<div class='pscContent'>01:40:47.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Der-beste-Gin-der-Welt-kommt-aus-Poppenbuettel,hamj107264.html'>World Gin Award</a></div>
+<div class='pscContent'>01:42:31.168 <a href='https://twitter.com/FabioDeMasi/status/1375086187648593921'>Scholz schummelt</a></div>
+<div class='pscContent'>01:44:18.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburger-Hafenbetreiber-HHLA-plant-Stellenabbau,hamj107300.html'>HHLA will Stellenabbau</a></div>
+<div class='pscContent'>01:47:33.168 <a href='https://twitter.com/bvm_hh/status/1376129407648206852'>Pop-up zum Dritten</a></div>
+<div class='pscContent'>01:48:59.168 <a href='https://twitter.com/HamburgNika/status/1375401803144126468?s=20'>Audio-Walk gegen Polizeigewalt</a></div>
+<div class='pscContent'>01:50:10.168 <a href='https://www.rnd.de/promis/jan-fedder-unbekannte-zerstoren-tor-von-grabstatte-SD5XLLQBAMFONNRWVQGYKIME3Y.html'>Jan bräuchte einen Tor-Hüter</a></div>
+<div class='pscContent'>01:51:57.168 <a href='https://hamburg1.de/news/16267'>Razzia in Langenhorn</a></div>
+<div class='pscContent'>01:53:22.168 <a href='https://hamburg1.de/news/16269'>Dammtor-Unfall</a></div>
+<div class='pscContent'>01:55:08.168 <a href='https://hamburg1.de/news/16666'>Klärwerke sollen testen</a></div>
+<div class='pscContent'>01:57:47.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Plaene-fuer-A26-Ost-vorgelegt,hamj107314.html'>A26 Ost</a></div>
+<div class='pscContent'>02:01:41.168 <a href='https://stadt-bremerhaven.de/discord-microsoft-nun-wohl-in-exklusiven-gespraechen-zur-uebernahme/'>Discord 365</a></div>
+<div class='pscContent'>02:06:01.168 <a href='https://twitter.com/tmigge/status/1375371691925340162'>BMW: In-App-Käufe</a></div>
+<div class='pscContent'>02:10:18.168 <a href='https://www.golem.de/news/elon-musk-tesla-akzeptiert-bitcoin-als-zahlungsmittel-2103-155210.html'>Tesla nimmt Bitcoin</a></div>
+<div class='pscContent'>02:10:55.168 <a href='https://www.golem.de/news/bundesverband-e-mobilitaet-plugin-hybride-nur-bei-hohem-elektroanteil-foerdern-2103-155191.html'>PHEV-Förderung verbessern</a></div>
+<div class='pscContent'>02:17:32.168 <a href='https://twitter.com/KevOnStage/status/1371304640772407298'>TikTok: In-App-Video</a></div>
+<div class='pscContent'>02:22:15.168 <a href='https://twitter.com/Guacam_Olee/status/1375775528188325889'>Wall-E.T.</a></div>
+<div class='pscContent'>02:29:19.168 <a href='https://community.fitbit.com/t5/Fitbit-com-Dashboard/RESOLVED-Daylight-Saving-Time-Sunday-March-10-2019/td-p/3330101'>Fitbit-DST-Fail</a></div>
+<div class='pscContent'>02:32:06.168 <a href='https://twitter.com/Guacam_Olee/status/1375465796089094150'>Smart Halo ist unterwegs</a></div>
+<div class='pscContent'>02:36:03.168 <a href='https://www.golem.de/news/chrome-google-blockiert-anti-tracking-erweiterung-2103-155244.html'>Chrome sperrt Anti-Tracking</a></div>
+<div class='pscContent'>02:37:21.168 <a href='https://www.golem.de/news/bargeld-viele-geldautomaten-mangels-nachfrage-ausser-betrieb-2103-155310.html'>Geldautomaten be gone</a></div>
+<div class='pscContent'>02:39:28.168 <a href='https://twitter.com/Guacam_Olee/status/1374706591623229440'>Guter Drucker-Vertrieb</a></div>
+<div class='pscContent'>02:43:53.168 <a href='https://twitter.com/tmigge/status/1374664288296693761'>Mit dem Essen spielen</a></div>
+<div class='pscContent'>02:48:02.168 <a href='https://www.theverge.com/2021/3/22/22345276/microsoft-xbox-live-network-rebrand-name-change'>Nomen est frustratio</a></div>
+<div class='pscContent'>02:49:26.168 <a href='https://twitter.com/Guacam_Olee/status/1374111178746642433'>PS3 mit Gesang</a></div>
+<div class='pscContent'>02:57:07.168 <a href='https://www.kino.de/unternehmen/walt-disney-company/news/disney-plus-kosten-start-geraete-accounts-und-alle-infos-zum-abo-1/'>Disney will kein Geld</a></div>
+<div class='pscContent'>03:02:06.168 <a href='https://twitter.com/Guacam_Olee/status/1375220542387671042'>Tenet</a></div>
+<div class='pscContent'>03:08:57.168 <a href='https://twitter.com/tmigge/status/1375505050479566859'>Mad Max Fury Road</a></div>
+<div class='pscContent'>03:11:11.168 <a href='https://twitter.com/Guacam_Olee/status/1374469940024012803'>Charlies Angels</a></div>
+<div class='pscContent'>03:17:23.168 <a href='https://de.wikipedia.org/wiki/Natural_Born_Killers'>Natural Born Killers</a></div>
+<div class='pscContent'>03:20:59.168 <a href='https://de.wikipedia.org/wiki/Subnautica'>Subnautica</a></div>
+<div class='pscContent'>03:24:18.168 <a href='https://www.golem.de/news/augmented-reality-nintendo-kuendigt-eine-art-pikmin-go-an-2103-155169.html'>Neues P-Go</a></div>
+<div class='pscContent'>03:25:36.168 <a href='https://www.golem.de/news/playstation-2-752-vorabversionen-von-spieleklassikern-veroeffentlicht-2103-155186.html'>Hidden Place</a></div>
+<div class='pscContent'>03:26:50.168 <a href='https://www.golem.de/news/spielkonsole-qualcomm-plant-konkurrenz-fuer-nintendo-switch-2103-155212.html'>Switch-Konkurrenz</a></div>
+<div class='pscContent'>03:28:27.168 <a href='https://de.wikipedia.org/wiki/Minecraft'>Minecraft</a></div>
+<div class='pscContent'>03:30:09.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-trennt-sich-remis-im-test-von-arminia-bielefeld-2021/'>Test-Unentschieden</a></div>
+<div class='pscContent'>03:30:26.168 <a href='https://hamburg1.de/news/16137'>Youngster geht</a></div>
+<div class='pscContent'>03:32:38.168 <a href='https://www.tagesschau.de/wirtschaft/fitnessgeraete-werden-teurer-101.html'>Hantelgold</a></div>
+<div class='pscContent'>03:37:14.168 <a href='https://twitter.com/Guacam_Olee/status/1376476712259686408'>Ole petitiert</a></div>
+<div class='pscContent'>03:40:32.168 <a href='https://twitter.com/Guacam_Olee/status/1375852861150613508'>Emma mag Ole nicht</a></div>
+<div class='pscContent'>03:42:20.168 <a href='https://www.otto.market/.html'>Otto Marketplace</a></div>
+<div class='pscContent'>03:44:50.168 <a href='https://twitter.com/Guacam_Olee/status/1375093125186748416'>Lastenrad-Förderung</a></div>
+<div class='pscContent'>03:46:18.168 <a href='https://www.blathering.de/2019/11/blathering-101-der-abstand-vom-anstand/'>Vor 70 Folgen: Blathering 101</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/03/blathering-171-wendehalse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1219</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 170 &#8211; Und ewig lockt das &#8220;Weit weg&#8221;</title>
+		<link>https://www.blathering.de/2021/03/blathering-170-und-ewig-lockt-das-weit-weg/</link>
+					<comments>https://www.blathering.de/2021/03/blathering-170-und-ewig-lockt-das-weit-weg/#comments</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 23 Mar 2021 07:27:58 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Wir reden über Urlaub in Corona-Zeiten, den Jo-Jo-Effekt aus frühzeitigen Öffnungen und daraus folgenden Schließungen, über seltsame Kumpeleien zwischen Staatsmacht und Schwurblern. Wir betrachten die Musikszene in Hamburg, bewerten Ketten auf bald nicht mehr vorhandenen Brücken und buddeln in der Elbe rum. Außerdem drucken wir (noch nicht) zweifarbig, versuchen mehr oder wenig erfolgreich etwas weniger Kekse zu essen, schauen etwas ältere Filme und basteln mal wieder Allerlei.]]></description>
+										<content:encoded><![CDATA[<p>Wir reden über Urlaub in Corona-Zeiten, den Jo-Jo-Effekt aus frühzeitigen Öffnungen und daraus folgenden Schließungen, über seltsame Kumpeleien zwischen Staatsmacht und Schwurblern. Wir betrachten die Musikszene in Hamburg, bewerten Ketten auf bald nicht mehr vorhandenen Brücken und buddeln in der Elbe rum. Außerdem drucken wir (noch nicht) zweifarbig, versuchen mehr oder wenig erfolgreich etwas weniger Kekse zu essen, schauen etwas ältere Filme und basteln mal wieder Allerlei.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_170.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:20.168 <a href='https://twitter.com/DieLabertasche/status/1371733420561301506'>Podlove-Fail</a></div>
+<div class='pscContent'>00:02:40.168 <a href='https://www.golem.de/news/geforce-rtx-3060-crypto-mining-drossel-bereits-hinfaellig-2103-154969.html'>Nvidia und Crypto-Mining</a></div>
+<div class='pscContent'>00:03:39.168 <a href='https://www.golem.de/news/bundesregierung-google-legt-berufung-wegen-gesundheitsinfos-ein-2103-155021.html'>Google-Diagnose</a></div>
+<div class='pscContent'>00:04:20.168 <a href='https://hamburg1.de/news/15610'>Hagenbeck bleibt zu</a></div>
+<div class='pscContent'>00:04:55.168 <a href='https://www.borncity.com/blog/2021/03/16/windows-10-auerplanmiges-update-fr-drucken-bluescreen-bug/'>Druck-Bug</a></div>
+<div class='pscContent'>00:05:41.168 <a href='https://twitter.com/HobbyQS/status/1372059422655139840'>Exchange Exchange</a></div>
+<div class='pscContent'>00:06:17.168 <a href='https://www.schwarzwaelder-bote.de/inhalt.ab-mittwoch-gueltig-kreis-calw-nimmt-corona-lockerungen-zurueck.5b610652-7a3e-4603-a477-15b7e81abe34.html'>Calw-Rückzieher</a></div>
+<div class='pscContent'>00:06:46.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-03-23%20since%3A2021-03-16&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:09:45.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-03-23%20since%3A2021-03-16&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:10:56.168 <a href='https://www.rnd.de/politik/evp-orban-kundigt-mitgliedschaft-der-fidesz-partei-offiziell-Q7POAFOYSPJRPYURJXQTKZUXJI.html'>Ganz raus</a></div>
+<div class='pscContent'>00:11:57.168 <a href='https://www.ndr.de/nachrichten/hamburg/A7-Sperrung-in-Hamburg-beendet-Elbtunnel-wieder-frei,asieben442.html'>Wieder freie (Auto)Bahn</a></div>
+<div class='pscContent'>00:12:25.168 <a href='https://www.tagesschau.de/ausland/coronavirus-miami-feiern-101.html'>Spring Break</a></div>
+<div class='pscContent'>00:13:00.168 <a href='https://twitter.com/hanvoi/status/1373374464176586754'>Worüber wir nicht reden</a></div>
+<div class='pscContent'>00:15:00.168 <a href='https://www.ndr.de/nachrichten/mecklenburg-vorpommern/AstraZeneca-Greifswalder-Forscher-haben-offenbar-Thrombose-Ursache-gefunden-,coronavirus4660.html'>Astrazeneca</a></div>
+<div class='pscContent'>00:21:32.168 <a href='https://lauerundwehner.de/mallorca-jens-spahn-und-die-masken-aufarbeitung-missbrauch-in-koeln/?t=43%3A05'>Spaaahn!</a></div>
+<div class='pscContent'>00:28:25.168 <a href='https://www.spiegel.de/panorama/justiz/corona-proteste-in-kassel-eskalieren-a-fa6f86a4-11f6-4f0d-95f3-784b22dc692b'>Kasseler Demo</a></div>
+<div class='pscContent'>00:34:35.168 <a href='https://www.rnd.de/politik/usa-wollen-astrazeneca-dosen-an-kanada-und-mexiko-schicken-erster-corona-impfstoff-export-O7EH77F67TPJZE5IXE2KNFRUVY.html'>USA &#8220;verleiht&#8221; AZ</a></div>
+<div class='pscContent'>00:39:11.168 <a href='https://www.rnd.de/politik/kretschmer-warnt-vor-gigantischer-dritten-welle-IAPY75HKLZEFNAFINA56Y22AYU.html'>Vom Saulus zum Paulus</a></div>
+<div class='pscContent'>00:43:26.168 <a href='https://www.rnd.de/politik/lockdown-regeln-sollen-bis-18-april-verlangert-werden-ADJVNX2ZHVG4RKFMVD6TVVRL4Y.html'>Longer Lockdown</a></div>
+<div class='pscContent'>00:48:11.168 <a href='https://www.ndr.de/nachrichten/schleswig-holstein/Razzia-in-einem-Luebecker-Corona-Testzentrum,razzia1632.html'>Schmu mit Tests</a></div>
+<div class='pscContent'>00:51:07.168 <a href='https://www.theguardian.com/us-news/2021/mar/17/jay-baker-bad-day-t-shirt-atlanta-spa-shooting'>Bad Day Guy</a></div>
+<div class='pscContent'>00:53:48.168 <a href='https://medium.com/the-establishment/how-william-shatner-betrayed-autistic-peoples-trust-8f0470019697'>Denny Crane ist 90</a></div>
+<div class='pscContent'>00:58:03.168 <a href='https://de.wikipedia.org/wiki/Sabine_Schmitz'>Sabine Schmitz</a></div>
+<div class='pscContent'>01:00:18.168 <a href='https://de.wikipedia.org/wiki/Yaphet_Kotto'>Yaphet Kotto</a></div>
+<div class='pscContent'>01:01:34.168 <a href='https://de.wikipedia.org/wiki/Karin_Strenz'>Karin Strenz</a></div>
+<div class='pscContent'>01:04:28.168 <a href='https://www.mopo.de/hamburg/polizei/stau-durch-demo-in-hamburg-polizei-schneidet-klima-aktivisten-von-koehlbrandbruecke-38194546'>XR mal wieder</a></div>
+<div class='pscContent'>01:08:18.168 <a href='https://www.spiegel.de/panorama/bildung/corona-hamburg-zieht-masken-vom-bund-fuer-schulen-aus-dem-verkehr-unzureichende-qualitaet-a-58daf150-28ca-489a-bf18-57949b475b8c'>Kommando zurück</a></div>
+<div class='pscContent'>01:12:05.168 <a href='https://www.rnd.de/panorama/wegen-nahe-zu-verschworungstheoretikern-hamburger-kiez-szene-distanziert-sich-von-legendaren-clubs-T563D434RFEJDGPP3QWL5ELMZ4.html'>Verschwörungsclubs</a></div>
+<div class='pscContent'>01:14:09.168 <a href='https://twitter.com/tmigge/status/1373936464405336068'>Live-Abriss</a></div>
+<div class='pscContent'>01:16:36.168 <a href='https://www.rnd.de/panorama/stipendium-fur-nichtstun-drei-frauen-aus-hamburg-gewinnen-und-kassieren-ab-2QTR6333J22VH7JL4PHGHPCOVE.html'>Hildegard, machen sie jetzt nichts!</a></div>
+<div class='pscContent'>01:19:50.168 <a href='https://www.hamburg.de/pressearchiv-fhh/14971138/2021-03-17-bwi-abbiegeassistenzsysteme'>Viele Abbiegeassistenten</a></div>
+<div class='pscContent'>01:20:34.168 <a href='https://www.hamburg.de/pressearchiv-fhh/14976350/2021-03-19-bukea-neue-fahrzeuge-fuer-elbstrandreinigung/'>Strandortpflege</a></div>
+<div class='pscContent'>01:23:00.168 <a href='https://taz.de/Durchsuchungen-wegen-Cum-Ex-Skandal/!5756708/'>Cum-Ex-Razzia. Nicht.</a></div>
+<div class='pscContent'>01:24:24.168 <a href='https://hamburg1.de/news/16085'>Brand in Pöseldorf</a></div>
+<div class='pscContent'>01:26:17.168 <a href='https://hamburg1.de/news/16104'>Fahrkartenautomaten-Sprengung</a></div>
+<div class='pscContent'>01:28:36.168 <a href='https://hamburg1.de/news/15741'>Weltkulturerbe-Versuch</a></div>
+<div class='pscContent'>01:30:54.168 <a href='https://hamburg1.de/news/15481'>Grundsteuer-Gesetzentwurf</a></div>
+<div class='pscContent'>01:33:27.168 <a href='https://hamburg1.de/news/15351'>Airport profitiert von Mallorca</a></div>
+<div class='pscContent'>01:34:12.168 <a href='https://hamburg1.de/news/15487'>Flixbus will wieder fahren</a></div>
+<div class='pscContent'>01:37:16.168 <a href='https://hamburg1.de/news/15473'>Fahrrad-Klima-Test</a></div>
+<div class='pscContent'>01:38:58.168 <a href='https://hamburg1.de/news/15474'>Elbvertiefung</a></div>
+<div class='pscContent'>01:40:18.168 <a href='https://zerforschung.org/posts/medicus/'>Zerforschung mal wieder</a></div>
+<div class='pscContent'>01:42:17.168 <a href='https://twitter.com/tmigge/status/1372809976725577731'>Take me home, R-e-p-o</a></div>
+<div class='pscContent'>01:46:02.168 <a href='https://www.autoblog.com/2021/03/19/tesla-full-self-driving-video-shows-erratic-behavior/'>FSD: VERY, VERY BETA</a></div>
+<div class='pscContent'>01:49:01.168 <a href='https://www.golem.de/news/autonomes-fahren-edinburgh-soll-autonome-busse-bekommen-2103-155006.html'>Autonome Edinburgh-Busse</a></div>
+<div class='pscContent'>01:49:51.168 <a href='https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365'>Wolkensturz</a></div>
+<div class='pscContent'>01:52:36.168 <a href='https://twitter.com/Guacam_Olee/status/1372212672809291784'>Seitenwechsel</a></div>
+<div class='pscContent'>01:54:33.168 <a href='https://twitter.com/tmigge/status/1372638037516156934'>Auto vollendet</a></div>
+<div class='pscContent'>01:57:49.168 <a href='https://twitter.com/Guacam_Olee/status/1371807060803866628'>Getrennter 3D-Drucker</a></div>
+<div class='pscContent'>02:08:58.168 <a href='https://twitter.com/tmigge/status/1373368932191571971'>Cyberpunk-MOC</a></div>
+<div class='pscContent'>02:16:00.168 <a href='https://twitter.com/Guacam_Olee/status/1373610725336309762'>Lautsprecher selbstgemacht</a></div>
+<div class='pscContent'>02:19:12.168 <a href='https://www.golem.de/news/vollbremsung-audi-stellt-verbrennermotor-entwicklung-ein-2103-154968.html'>Audi stoppt Verbrenner-Entwicklung</a></div>
+<div class='pscContent'>02:21:30.168 <a href='https://www.golem.de/news/psd2-zahlungen-im-internet-nur-noch-mit-2fa-2103-154979.html'>2FA-Pflicht für Kreditkarten</a></div>
+<div class='pscContent'>02:25:00.168 <a href='https://twitter.com/thecodinglove/status/1372959552149282822'>Cookie Consent Run</a></div>
+<div class='pscContent'>02:27:58.168 <a href='https://www.golem.de/news/vodafone-fenstergriff-mit-sim-karte-erinnert-fuer-220-euro-ans-lueften-2103-155060.html'>Smarter Fenstergriff</a></div>
+<div class='pscContent'>02:30:20.168 <a href='https://www.bluetoothkopfhoerer-test.com/vier-wege-bluetooth-kopfhoerer-mit-der-ps4-zu-verbinden/'>Karaoke mit Trick</a></div>
+<div class='pscContent'>02:37:16.168 <a href='https://twitter.com/Guacam_Olee/status/1372989304239222785'>PS5: VR-Controller</a></div>
+<div class='pscContent'>02:39:46.168 <a href='https://www.youtube.com/watch?v=33dztfqRu_k'>Hello Penis</a></div>
+<div class='pscContent'>02:43:38.168 <a href='https://cad-comic.com/comic/console-war-p82/'>GamePass-Comic</a></div>
+<div class='pscContent'>02:48:03.168 <a href='https://de.wikipedia.org/wiki/Battleship_(Film)'>Schiffe versenken</a></div>
+<div class='pscContent'>02:54:51.168 <a href='https://twitter.com/Guacam_Olee/status/1373717818483560454'>Das Leben ist komisch</a></div>
+<div class='pscContent'>02:58:03.168 <a href='https://de.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier'>The Falcon and the Winter Soldier</a></div>
+<div class='pscContent'>03:06:27.168 <a href='https://twitter.com/Guacam_Olee/status/1373424304168255491'>Warum er?</a></div>
+<div class='pscContent'>03:11:42.168 <a href='https://www.golem.de/news/streaming-netflix-will-originals-ins-fernsehen-bringen-2103-154997.html'>Netflix im TV</a></div>
+<div class='pscContent'>03:12:43.168 <a href='https://blog.playstation.com/2021/03/17/play-at-home-2021-update-10-free-games-to-download-this-spring/#sf244024254'>Play@Home-Tipps</a></div>
+<div class='pscContent'>03:16:20.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-verliert-sein-heimspiel-gegen-den-sc-paderborn-07-2021/'>Verlor’n gegen Paderborn</a></div>
+<div class='pscContent'>03:16:57.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-gewinnt-das-auswartsspiel-beim-vfl-osnabruck-2021/'>Osnabrück ist eine schöne Stadt</a></div>
+<div class='pscContent'>03:23:05.168 <a href='https://twitter.com/tmigge/status/1371821668948131840'>Spiegelschaden</a></div>
+<div class='pscContent'>03:31:10.168 <a href='https://twitter.com/Guacam_Olee/status/1371901140321845251'>Garagenspaß</a></div>
+<div class='pscContent'>03:34:31.168 <a href='https://www.blathering.de/2019/11/blathering-100-der-jahrhundert-podcast/'>Vor 70 Folgen: Blathering 100</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/03/blathering-170-und-ewig-lockt-das-weit-weg/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 169 &#8211; Die verlorene Ehre der Union (oder wie Korruption entsteht und wohin sie führen kann)</title>
+		<link>https://www.blathering.de/2021/03/blathering-169-die-verlorene-ehre-der-union-oder-wie-korruption-entsteht-und-wohin-sie-fuehren-kann/</link>
+					<comments>https://www.blathering.de/2021/03/blathering-169-die-verlorene-ehre-der-union-oder-wie-korruption-entsteht-und-wohin-sie-fuehren-kann/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2021 06:45:37 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Wir reden dieses Mal über überspezifische Ehrenbekundungen und über dessen Auswirkungen auf Wahlen. Wir befassen uns mit übergriffigen Chefredakteuren, über Rekordversuche im Öffnen, über abgerissene Brücken und neue Erdenbürger auf ebendiesen, bauen mit und ohne Lego, schauen uns kaputte alte Kähne mit und ohne Stint an und diskutieren über eher schlecht konfigurierte Firewalls.]]></description>
+										<content:encoded><![CDATA[<p>Wir reden dieses Mal über überspezifische Ehrenbekundungen und über dessen Auswirkungen auf Wahlen. Wir befassen uns mit übergriffigen Chefredakteuren, über Rekordversuche im Öffnen, über abgerissene Brücken und neue Erdenbürger auf ebendiesen, bauen mit und ohne Lego, schauen uns kaputte alte Kähne mit und ohne Stint an und diskutieren über eher schlecht konfigurierte Firewalls.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_169.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:20.168 <a href='https://twitter.com/horridtuna'>Neuer Follower/Hörer</a></div>
+<div class='pscContent'>00:01:05.168 <a href='https://twitter.com/Guacam_Olee/status/1369025105720934401'>So alt, das riecht schon streng</a></div>
+<div class='pscContent'>00:02:46.168 <a href='https://twitter.com/Konkie1969/status/1369551206167805954'>Podcastidee von Konkie</a></div>
+<div class='pscContent'>00:03:59.168 <a href='https://twitter.com/HobbyQS/status/1369540610273771523'>Elektro-Tipp von Björn</a></div>
+<div class='pscContent'>00:04:35.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-03-16%20since%3A2021-03-09&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:07:00.168 <a href='https://twitter.com/Guacam_Olee/status/1370151884275781638'>Kalter Spiegel-Biber</a></div>
+<div class='pscContent'>00:09:24.168 <a href='https://www.butenunbinnen.de/nachrichten/gesellschaft/jugendlicher-tot-polizei-delmenhorst-beerdigung-100.html'>Der Stand in Delmenhorst</a></div>
+<div class='pscContent'>00:10:18.168 <a href='https://www.youtube.com/watch?v=4_ruX7FwcNI'>Living in Vidiyo</a></div>
+<div class='pscContent'>00:13:43.168 <a href='https://twitter.com/evawolfangel/status/1370412934623592451'>Luca-Zoff</a></div>
+<div class='pscContent'>00:14:48.168 <a href='https://www.heise.de/amp/news/Corona-Selbsttests-bei-Aldi-Negativ-Zertifikate-von-Aesku-faktisch-wertlos-5987246.html'>ALDI-DIY-Testergebnis</a></div>
+<div class='pscContent'>00:15:49.168 <a href='http://blog.fefe.de/?ts=9eb5a3bf'>Worüber wir nicht reden</a></div>
+<div class='pscContent'>00:18:04.168 <a href='https://twitter.com/tmigge/status/1369220202211196930'>History Repeating</a></div>
+<div class='pscContent'>00:20:05.168 <a href='https://www.t-online.de/nachrichten/deutschland/id_89621338/landkreis-calw-rechnet-corona-zahlen-schoen-und-macht-auf.html'>Wir schnitzen uns Zahlen</a></div>
+<div class='pscContent'>00:24:18.168 <a href='https://www.rnd.de/politik/fruher-gegen-corona-geimpft-lehrer-erzieher-und-polizisten-wehren-sich-gegen-kritik-ESONXFXWZZGP3P6TMSJ4PI4UWU.html'>Wir schnitzen uns Prioritäten</a></div>
+<div class='pscContent'>00:26:41.168 <a href='https://taz.de/Zeitplan-fuer-Corona-Impfungen/!5752713/'>Impfhoffnung zerschlagen</a></div>
+<div class='pscContent'>00:31:21.168 <a href='https://twitter.com/LarsWienand/status/1369914655632670722'>Kühlschrank-Behauptungen</a></div>
+<div class='pscContent'>00:33:34.168 <a href='https://twitter.com/RainerRoever/status/1370103154281431043'>Dänemark macht Südafrika</a></div>
+<div class='pscContent'>00:36:46.168 <a href='https://www.spiegel.de/wirtschaft/unternehmen/mallorca-eurowings-stockt-fuer-die-oster-reisezeit-fluege-auf-a-cb643216-7fcc-4ed4-ab4c-9de3a8b54e72'>Covidemos auf Mallorca</a></div>
+<div class='pscContent'>00:44:58.168 <a href='https://de.wikipedia.org/wiki/Ehrenerkl%C3%A4rung'>Ehrenworterklärung</a></div>
+<div class='pscContent'>00:47:24.168 <a href='https://twitter.com/JHillje/status/1371193978557718535'>Nichtwähler again</a></div>
+<div class='pscContent'>00:53:16.168 <a href='https://www.fr.de/kultur/gesellschaft/tanjev-schultz-triumphgeheul-verbietet-sich-90237844.html'>Es reichelt</a></div>
+<div class='pscContent'>01:00:00.168 <a href='https://www.rnd.de/politik/demokraten-im-us-reprasentantenhaus-treiben-verscharfung-von-waffengesetzen-voran-WPIPGDT3YKDFBESNHSCNEM4FCY.html'>Bidens Waffengesetze</a></div>
+<div class='pscContent'>01:01:07.168 <a href='https://taz.de/Russlands-Aktion-gegen-Twitter/!5752764/'>Russland bremst Twitter</a></div>
+<div class='pscContent'>01:04:11.168 <a href='http://omegataupodcast.net/359-modern-fission-reactors/'>Fukushima</a></div>
+<div class='pscContent'>01:08:50.168 <a href='https://de.wikipedia.org/wiki/Janosch'>Janosch wird 90</a></div>
+<div class='pscContent'>01:10:28.168 <a href='https://de.wikipedia.org/wiki/Lou_Ottens'>Lou Ottens</a></div>
+<div class='pscContent'>01:13:48.168 <a href='https://www.hamburg.de/pressearchiv-fhh/14955688/2021-03-10-bukea-stintdiebe-gefasst/'>Fieses Phishing</a></div>
+<div class='pscContent'>01:16:44.168 <a href='https://hamburg1.de/news/15341'>Köhlbrand-Kind</a></div>
+<div class='pscContent'>01:18:18.168 <a href='https://www.mopo.de/hamburg/sensor-am-fahrrad-jetzt-werden-hamburgs-autofahrer-unter-die-lupe-genommen-38159534'>Abstandsmesser</a></div>
+<div class='pscContent'>01:20:48.168 <a href='https://justiz.hamburg.de/aktuellepresseerklaerungen/14961772/pressemitteilung/'>Maskeneinspruch</a></div>
+<div class='pscContent'>01:23:55.168 <a href='https://hamburg1.de/news/14954'>Laute Steinstraße</a></div>
+<div class='pscContent'>01:26:38.168 <a href='https://hamburg1.de/news/14821'>HVV bis Itzehoe</a></div>
+<div class='pscContent'>01:28:29.168 <a href='https://www.mopo.de/hamburg/schwere-vorwuerfe-betriebsrat-stellt-strafanzeige-gegen-hagenbeck-chef-38169030'>Hagenbeck mal zwei</a></div>
+<div class='pscContent'>01:32:45.168 <a href='https://hamburg1.de/news/14829'>A7 für 79 Stunden dicht</a></div>
+<div class='pscContent'>01:34:25.168 <a href='https://taz.de/Vertreibung-in-Hamburg/!5754550/'>Blumen-Ärger</a></div>
+<div class='pscContent'>01:35:59.168 <a href='https://twitter.com/henningkrause/status/1370639660465201153'>Streecks Podcast</a></div>
+<div class='pscContent'>01:39:07.168 <a href='https://www.tobiasmigge.de/w%C3%B6bu/'>Wörterbuch</a></div>
+<div class='pscContent'>01:41:54.168 <a href='https://www.golem.de/news/cloud-computing-rechenzentrum-von-cloud-hoster-ovh-abgebrannt-2103-154820.html'>Brandmauer</a></div>
+<div class='pscContent'>01:47:42.168 <a href='https://www.golem.de/news/exchange-hack-microsoft-365-migrationstool-durch-textdatei-ausgetauscht-2103-154797.html'>Text(e) statt Exe</a></div>
+<div class='pscContent'>01:49:47.168 <a href='https://www.youtube.com/watch?v=iGSwxmxE5pE'>LEGO-Fail</a></div>
+<div class='pscContent'>01:54:32.168 <a href='https://www.golem.de/news/datenaffaere-300-000-euro-dsgvo-bussgeld-fuer-vfb-stuttgart-2103-154825.html'>DSGVO: VfB Stuttgart</a></div>
+<div class='pscContent'>01:56:33.168 <a href='https://www.golem.de/news/stopp-von-zwangs-rollout-zu-dumm-um-smart-zu-sein-2103-154863.html'>Nicht smart genug</a></div>
+<div class='pscContent'>02:01:54.168 <a href='https://twitter.com/Guacam_Olee/status/1370750380716523520'>Neuer Drucker?</a></div>
+<div class='pscContent'>02:07:25.168 <a href='https://www.youtube.com/watch?v=h44wusf-vFo'>DIY-#NoLEGO</a></div>
+<div class='pscContent'>02:19:46.168 <a href='https://twitter.com/Guacam_Olee/status/1370430722041843713'>Logfile-Spaß</a></div>
+<div class='pscContent'>02:21:34.168 <a href='https://twitter.com/Guacam_Olee/status/1369797292379738115'>The right side</a></div>
+<div class='pscContent'>02:27:06.168 <a href='https://twitter.com/petapixel/status/1369758766606872579'>Stop the crop</a></div>
+<div class='pscContent'>02:30:43.168 <a href='https://twitter.com/tmigge/status/1371104645100281858'>Curiosity mit Fehlern</a></div>
+<div class='pscContent'>02:37:04.168 <a href='https://www.golem.de/news/jet-dhl-baut-680-neue-packstationen-auf-tankstellen-2103-154832.html'>JET und DHL</a></div>
+<div class='pscContent'>02:38:15.168 <a href='https://www.dymo.com/de-DE/software-fix'>Drucker-Fail</a></div>
+<div class='pscContent'>02:42:27.168 <a href='https://zweipaarsocken.podigee.io/'>Sven hoch zwei</a></div>
+<div class='pscContent'>02:45:04.168 <a href='https://www.golem.de/news/kino-mgm-ersetzt-bruellenden-loewen-durch-cgi-katze-2103-154860.html'>MGM und der CGI-Löwe</a></div>
+<div class='pscContent'>02:46:10.168 <a href='https://www.golem.de/news/streaming-netflix-erschwert-konten-sharing-2103-154881.html'>Netflix kontrolliert</a></div>
+<div class='pscContent'>02:48:46.168 <a href='https://twitter.com/Guacam_Olee/status/1369404171410083842'>Das Hausboot des Erzengels</a></div>
+<div class='pscContent'>02:53:33.168 <a href='https://store.playstation.com/de-de/product/EP1018-CUSA06511_00-LEGOCITYUNDERCOV'>LEGO City Undercover</a></div>
+<div class='pscContent'>02:58:34.168 <a href='https://twitter.com/Guacam_Olee/status/1370147608811933699'>Oliver Zwiebeln</a></div>
+<div class='pscContent'>03:00:42.168 <a href='https://de.wikipedia.org/wiki/Die_Glücksritter_(Film)'>Die Glücksritter</a></div>
+<div class='pscContent'>03:05:19.168 <a href='https://twitter.com/Guacam_Olee/status/1370851679046930434'>Fliegender Geldkoffer</a></div>
+<div class='pscContent'>03:11:36.168 <a href='https://de.wikipedia.org/wiki/Hidden_Figures_%E2%80%93_Unerkannte_Heldinnen'>Hidden Figures</a></div>
+<div class='pscContent'>03:19:53.168 <a href='https://www.wbs-law.de/medienrecht/neues-jugendschutzgesetz-fifa-21-bald-ab-18-53903/'>FIFA 21 ab 18</a></div>
+<div class='pscContent'>03:20:29.168 <a href='https://www.spiegel.de/kultur/uwe-boll-plant-filmprojekt-ueber-anschlag-von-hanau-angehoerige-von-opfern-entsetzt-a-ab82cd19-8c2d-4f79-aea5-76cbecb95f96'>Ein Boll-Werk</a></div>
+<div class='pscContent'>03:21:43.168 <a href='https://www.kicker.de/st-pauli-gegen-paderborn-2021-bundesliga-4667576/ticker'>Paderborn lag vorn</a></div>
+<div class='pscContent'>03:22:42.168 <a href='https://twitter.com/Guacam_Olee/status/1370009072163033094'>Rattan-Wanderung</a></div>
+<div class='pscContent'>03:25:08.168 <a href='https://twitter.com/tmigge/status/1370332429878190080'>Fake-Rechnungen</a></div>
+<div class='pscContent'>03:32:51.168 <a href='https://www.blathering.de/2019/11/blathering-099-high-fidelity/'>Vor 70 Folgen: Blathering 99</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/03/blathering-169-die-verlorene-ehre-der-union-oder-wie-korruption-entsteht-und-wohin-sie-fuehren-kann/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1212</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 168 &#8211; Tiger im Streichelzoo</title>
+		<link>https://www.blathering.de/2021/03/blathering-168-tiger-im-streichelzoo/</link>
+					<comments>https://www.blathering.de/2021/03/blathering-168-tiger-im-streichelzoo/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 09 Mar 2021 06:29:09 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Wir reden über unsaubere Geschäfte, Lockerungen und das hin- und wegschauen.
+Dann schauen wir wo, man sich testen lassen kann, warum man immer noch woanders seine Bücher kaufen sollte und machen mal wieder was mit Noppen.
+Und dann diskutieren wir natürlich noch über Raketenmänner, fliegende Bügeleisen und alternde Nagetiere (nicht alle davon sind Zombies).]]></description>
+										<content:encoded><![CDATA[<p>Wir reden über unsaubere Geschäfte, Lockerungen und das hin- und wegschauen.<br />
+Dann schauen wir wo, man sich testen lassen kann, warum man immer noch woanders seine Bücher kaufen sollte und machen mal wieder was mit Noppen.<br />
+Und dann diskutieren wir natürlich noch über Raketenmänner, fliegende Bügeleisen und alternde Nagetiere (nicht alle davon sind Zombies).<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_168.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:25.168 <a href='https://www.indiegogo.com/projects/aya-neo-world-s-first-7nm-handheld-gaming-device--2#/'>Aya Neo undurchsichtig</a></div>
+<div class='pscContent'>00:02:02.168 <a href='https://twitter.com/HobbyQS/status/1366655710797381634'>Migge-Sort</a></div>
+<div class='pscContent'>00:03:19.168 <a href='https://www.tagesschau.de/wirtschaft/caritas-altenpflege-tarifvertrag-101.html'>Caritas doch nicht böse?</a></div>
+<div class='pscContent'>00:05:03.168 <a href='https://www.rnd.de/politik/corona-hilfen-joe-biden-macht-billionen-im-kampf-gegen-das-virus-locker-ML6PQ6QQINGPBB2D6GGJGDUZSQ.html'>#CovidReliefBill</a></div>
+<div class='pscContent'>00:06:10.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-03-09%20since%3A2021-03-03&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:08:47.168 <a href='https://www.rnd.de/politik/anschlag-in-berlin-war-anis-amri-wirklich-allein-neues-gutachten-zieht-taterschaft-in-zweifel-WUAQBSRRL5BFRDUCFCQGPS46CY.html'>Amri nicht allein?</a></div>
+<div class='pscContent'>00:10:14.168 <a href='https://taz.de/Todesfall-in-Polizeigewahrsam/!5756248/'>Worüber wir nicht reden</a></div>
+<div class='pscContent'>00:12:22.168 <a href='https://www.deutschlandfunk.de/der-tag-der-chinesische-machtplan.3415.de.html?dram:article_id=493619'>AfD wird beobachtet. Nicht.</a></div>
+<div class='pscContent'>00:17:07.168 <a href='https://www.deutschlandfunk.de/der-tag-corona-entweder-alle-sind-geschuetzt-oder-keiner.3415.de.html?dram:article_id=493486'>Fidesz ist raus. So halb.</a></div>
+<div class='pscContent'>00:20:21.168 <a href='https://www.tagesschau.de/inland/lobbyregister-einigung-101.html'>Lobbyliste Light</a></div>
+<div class='pscContent'>00:22:30.168 <a href='https://twitter.com/HerrNaumann/status/1367869791726428167'>Wer hat uns verraten?</a></div>
+<div class='pscContent'>00:29:15.168 <a href='https://www.tagesschau.de/faktenfinder/impfstoff-reihenfolge-twitter-101.html'>Vernichtungslüge</a></div>
+<div class='pscContent'>00:32:58.168 <a href='https://twitter.com/Anwalt_Jun/status/1368493704810553345'>Wo ist der Impfstoff?</a></div>
+<div class='pscContent'>00:38:54.168 <a href='https://www.br.de/nachrichten/bayern/vermeintliche-impf-post-aus-dem-landtag,SR0Sdcr'>AfD schickt Briefe</a></div>
+<div class='pscContent'>00:40:16.168 <a href='https://www.t-online.de/nachrichten/deutschland/id_89590520/experte-ueber-neuen-corona-beschluss-vielleicht-setzt-man-auf-glueck-.html'>Schrödingers Lockerungen</a></div>
+<div class='pscContent'>00:48:44.168 <a href='https://www1.wdr.de/nachrichten/selbsttest-corona-aldi-supermarkt-100.html'>ALDI-Tests</a></div>
+<div class='pscContent'>00:51:06.168 <a href='https://www.stuttgarter-zeitung.de/inhalt.thalia-chef-schimpft-ueber-corona-regeln-twitter-user-empoeren-sich-ueber-michael-busch.5a639d64-d930-4626-b040-b036f79abcee.html'>Thalia reloaded</a></div>
+<div class='pscContent'>00:53:45.168 <a href='https://www.volksverpetzer.de/corona-faktencheck/selbstgebastelter-impfstoff-stoecker/'>DIY-Impfstoff</a></div>
+<div class='pscContent'>00:57:53.168 <a href='https://threadreaderapp.com/thread/1368326793770459139.html'>My name is Luka, not Luca</a></div>
+<div class='pscContent'>01:02:56.168 <a href='https://www.tagesschau.de/ausland/impfungen-coronavirus-usa-101.html'>USA: Masse statt Klassifizierung</a></div>
+<div class='pscContent'>01:05:53.168 <a href='https://www.golem.de/news/whatsapp-signal-telegram-regierung-fordert-nutzerverifizierung-bei-messengern-2103-154629.html'>Bürgernummer</a></div>
+<div class='pscContent'>01:09:19.168 <a href='https://twitter.com/FabioDeMasi/status/1367783783643119619'>Cum Ex: Doch kein Verjährung</a></div>
+<div class='pscContent'>01:10:56.168 <a href='https://www.berliner-zeitung.de/wirtschaft-verantwortung/wirecard/wirecard-erst-die-spitze-des-eisbergs-li.143848'>Wirecard: Ermittlungen in den USA</a></div>
+<div class='pscContent'>01:12:17.168 <a href='https://petapixel.com/2021/03/03/instagram-takes-on-clubhouse-launches-live-rooms/'>Clubhäuschen</a></div>
+<div class='pscContent'>01:14:11.168 <a href='https://twitter.com/Guacam_Olee/status/1368177487843373056'>Hitler fährt Shotgun</a></div>
+<div class='pscContent'>01:17:35.168 <a href='https://twitter.com/HamburgerFV/status/1367789542011453445'>Neues vom Spocht</a></div>
+<div class='pscContent'>01:21:51.168 <a href='https://hamburg1.de/news/14582'>Wieder Autokorso</a></div>
+<div class='pscContent'>01:24:03.168 <a href='https://www.hamburg.de/coronavirus/14945386/2021-03-06-sozialbehoerde-corona-schnelltests/'>Let&#8217;s test</a></div>
+<div class='pscContent'>01:26:22.168 <a href='https://hamburg1.de/news/14198'>Veranstaltungsabsage</a></div>
+<div class='pscContent'>01:29:27.168 <a href='https://hamburg1.de/news/14207'>Schlägerei</a></div>
+<div class='pscContent'>01:30:30.168 <a href='https://hamburg1.de/news/14575'>Hagenbeck öffnet bald</a></div>
+<div class='pscContent'>01:34:08.168 <a href='https://hamburg1.de/news/14201'>Schilleroper</a></div>
+<div class='pscContent'>01:37:06.168 <a href='https://www.youtube.com/watch?v=A4KzKQwZvjA'>#NoLEGO</a></div>
+<div class='pscContent'>01:53:42.168 <a href='https://twitter.com/Guacam_Olee/status/1367487318240722944'>Radeln wie gedruckt</a></div>
+<div class='pscContent'>01:58:39.168 <a href='https://www.golem.de/news/daydream-google-verkauft-keine-cardboard-viewer-mehr-2103-154650.html'>Google Cardboard eingestellt</a></div>
+<div class='pscContent'>02:00:29.168 <a href='https://twitter.com/tmigge/status/1367732877291585536'>Google trackt nicht mehr. Nicht.</a></div>
+<div class='pscContent'>02:02:37.168 <a href='https://twitter.com/tmigge/status/1368820545417056261'>Farm Industries</a></div>
+<div class='pscContent'>02:09:34.168 <a href='https://twitter.com/Guacam_Olee/status/1367894723759927301'>Tablett serviert Grafik</a></div>
+<div class='pscContent'>02:14:53.168 <a href='https://www.youtube.com/watch?v=gP9wLJhaBOE'>Schlosstipp für Ole</a></div>
+<div class='pscContent'>02:16:59.168 <a href='https://www.golem.de/news/augmented-reality-microsoft-mesh-ist-eine-art-holodeck-fuer-hololens-2-2103-154659.html'>Hololens 2</a></div>
+<div class='pscContent'>02:19:40.168 <a href='https://twitter.com/C_C_Krebs/status/1367673471669526528'>Oha, OWA!</a></div>
+<div class='pscContent'>02:22:38.168 <a href='https://www.golem.de/news/covid-19-update-der-corona-warn-app-bringt-freiwillige-datenspende-2103-154727.html'>Corona-Warn-App</a></div>
+<div class='pscContent'>02:25:06.168 <a href='https://www.golem.de/news/subventionsbetrug-bafa-betrugsmasche-mit-elektroautos-aufgedeckt-2103-154665.html'>E-Auto-Förderungsbetrug</a></div>
+<div class='pscContent'>02:29:26.168 <a href='https://twitter.com/moyix/status/1367575109305794563'>AI-Verarsche</a></div>
+<div class='pscContent'>02:31:56.168 <a href='https://petapixel.com/2021/03/05/tom-cruise-isnt-on-tiktok-its-a-shockingly-realistic-deepfake/'>Tom Cruise reloaded</a></div>
+<div class='pscContent'>02:34:34.168 <a href='https://twitter.com/Guacam_Olee/status/1368686523223310347'>Lufthansa-Leak</a></div>
+<div class='pscContent'>02:35:40.168 <a href='https://www.golem.de/news/auto-honda-bringt-limousine-mit-staupilot-auf-den-markt-2103-154722.html'>Honda mit Stauautomatik</a></div>
+<div class='pscContent'>02:39:03.168 <a href='https://hackaday.com/2021/01/17/leds-from-dubai-the-royal-lights-you-cant-buy/'>Dubai-Lampe</a></div>
+<div class='pscContent'>02:43:55.168 <a href='https://twitter.com/isotopp/status/1368678729921224705'>Mein Name ist Wahr</a></div>
+<div class='pscContent'>02:46:06.168 <a href='https://de.wikipedia.org/wiki/WandaVision'>Wandavision-Finale</a></div>
+<div class='pscContent'>02:51:50.168 <a href='https://twitter.com/Guacam_Olee/status/1368683488354967553'>Banana for play</a></div>
+<div class='pscContent'>02:53:52.168 <a href='https://www.golem.de/news/playstation-store-sony-schliesst-seinen-filmshop-wegen-netflix-und-co-2103-154635.html'>PS-Store: Keine Filme mehr</a></div>
+<div class='pscContent'>02:56:04.168 <a href='https://twitter.com/Guacam_Olee/status/1368685323983716354'>Story? Welche Story?</a></div>
+<div class='pscContent'>02:58:05.168 <a href='https://de.wikipedia.org/wiki/Rocketman'>Rocketman</a></div>
+<div class='pscContent'>03:04:25.168 <a href='https://twitter.com/tmigge/status/1368585712715653122'>Die Maus wird 50</a></div>
+<div class='pscContent'>03:06:02.168 <a href='https://twitter.com/Guacam_Olee/status/1368695021847928837'>Biber und (Alb)Traum</a></div>
+<div class='pscContent'>03:08:58.168 <a href='https://www.golem.de/news/science-fiction-raumpatrouille-orion-wird-neu-aufgelegt-2103-154689.html'>Raumschiff Orion reloaded</a></div>
+<div class='pscContent'>03:11:01.168 <a href='https://twitter.com/HamburgerFV/status/1367541520761581571'>End of Season</a></div>
+<div class='pscContent'>03:12:38.168 <a href='https://twitter.com/fcstpauli/status/1367773607938637827'>Tschüss Tashchy</a></div>
+<div class='pscContent'>03:13:16.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-holt-einen-punkt-im-auswartsspiel-in-karlsruhe-2021/'>Ein Punkt gegen den KSC</a></div>
+<div class='pscContent'>03:16:46.168 <a href='https://twitter.com/Guacam_Olee/status/1368160922913697793'>Olexotisch</a></div>
+<div class='pscContent'>03:22:33.168 <a href='https://twitter.com/tmigge/status/1367217368288616450'>Müllbergwanderung</a></div>
+<div class='pscContent'>03:25:40.168 <a href='https://www.blathering.de/2019/10/blathering-098-immer-aerger-mit-dem-personal/'>Vor 70 Folgen: Blathering 98</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/03/blathering-168-tiger-im-streichelzoo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1207</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 167 &#8211; Elektrisierend!</title>
+		<link>https://www.blathering.de/2021/03/blathering-167-elektrisierend/</link>
+					<comments>https://www.blathering.de/2021/03/blathering-167-elektrisierend/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2021 08:21:30 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Dieses Mal reden wir immer noch über Corona (nützt ja nix), über unlautere Geschäftspraktiken, über nicht fahrende elektrische Autos, fahrende elektrische Fahrräder, elektrische Busse, Staubsauger und Hunde. Dann freuen wir uns über zukünftige virtuelle Welten, über gerade erst vergangene Lokalderbys und schauen mal wieder ein paar alter Filme.]]></description>
+										<content:encoded><![CDATA[<p>Dieses Mal reden wir immer noch über Corona (nützt ja nix), über unlautere Geschäftspraktiken, über nicht fahrende elektrische Autos, fahrende elektrische Fahrräder, elektrische Busse, Staubsauger und Hunde. Dann freuen wir uns über zukünftige virtuelle Welten, über gerade erst vergangene Lokalderbys und schauen mal wieder ein paar alter Filme.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_167.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:20.168 <a href='https://twitter.com/blathering_pod/status/1364205763699367936'>Tobi ist SPAM</a></div>
+<div class='pscContent'>00:01:08.168 <a href='https://hamburg1.de/news/13793'>Moorburg schaltet ab</a></div>
+<div class='pscContent'>00:01:30.168 <a href='https://hamburg1.de/news/13028'>Freier Alsterdampfer</a></div>
+<div class='pscContent'>00:02:04.168 <a href='https://taz.de/Streit-zwischen-Australien-und-Facebook/!5750427/'>Am Ende kein Sieger</a></div>
+<div class='pscContent'>00:03:01.168 <a href='https://twitter.com/HobbyQS/status/1364519465229168640'>Motor-Doping</a></div>
+<div class='pscContent'>00:04:13.168 <a href='https://www.derstandard.at/story/2000124396349/materialermuedung-wohl-ursache-fuer-boeing-777-triebwerksschaden'>Triebwerk war müde</a></div>
+<div class='pscContent'>00:06:43.168 <a href='https://twitter.com/steltzner/status/1364076615932645379'>Schirmsprache</a></div>
+<div class='pscContent'>00:08:14.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-03-02%20since%3A2021-02-23&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:11:23.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-03-03%20since%3A2021-02-23&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:12:38.168 <a href='https://www.abendblatt.de/hamburg/article231656183/Tierpark-Hagenbeck-nimmt-Kuendigung-fuer-Betriebsratschef-zurueck-Hamburg-Dirk-Albrecht.html'>Hagenbeck verträgt sich</a></div>
+<div class='pscContent'>00:13:27.168 <a href='https://www.rnd.de/politik/urteil-sarkozy-schuldig-frankreichs-ex-prasident-wegen-korruption-zu-haft-verurteilt-KLK4G2CZIFK2TKYMGOK4QQ5QFM.html'>Sarkozy geht in Bau. Nicht.</a></div>
+<div class='pscContent'>00:15:11.168 <a href='https://www.tagesspiegel.de/berlin/polizei-justiz/ermittlungen-gegen-veganen-koch-und-corona-leugner-attila-hildmann-wird-offenbar-per-haftbefehl-gesucht/26943168.html'>Hildmann-Haftbefehl</a></div>
+<div class='pscContent'>00:17:02.168 <a href='https://www.rnd.de/gesundheit/corona-impfstoff-von-johnson-johnson-das-ist-uber-ad26cov2-s-bekannt-DIQHBSSZDJHLBGK2THRUFMYVS4.html'>Hoffnung auf Johns Sohn</a></div>
+<div class='pscContent'>00:19:28.168 <a href='https://twitter.com/lorz/status/1364463879431020546'>Veraltete Umfrage</a></div>
+<div class='pscContent'>00:20:52.168 <a href='https://taz.de/Spahns-Schnelltest-Plaene/!5750546/'>Schnelltest? Nein! Doch!</a></div>
+<div class='pscContent'>00:24:56.168 <a href='https://www.rnd.de/politik/biontech-grunder-erhalten-von-steinmeier-grosses-verdienstkreuz-5XVMNDTZVVHKLB6U3A7OP3KI5A.html'>Bundesverdienstkreuz Biontech-GründerIn</a></div>
+<div class='pscContent'>00:25:50.168 <a href='https://twitter.com/harikunzru/status/1365882246725574659'>Apropos mRNA</a></div>
+<div class='pscContent'>00:28:35.168 <a href='https://www.rnd.de/panorama/hamburg-polizei-pruft-einsatz-nach-verfolgungsfahrt-durch-park-4P72FLTHLRCVHPDV4NLG7HPL44.html'>Streifenwagen vs. Umarmer</a></div>
+<div class='pscContent'>00:31:20.168 <a href='https://threadreaderapp.com/thread/1366693803067912194.html'>Der Entwurf von morgen schon heute</a></div>
+<div class='pscContent'>00:38:21.168 <a href='https://www.rnd.de/politik/razzia-bei-thuringer-neonazis-rechtsrock-gewalt-und-drogenhandel-KMZW52ZMMZBL5DECJHFKGWFXMQ.html'>Razzien Rechts und Nicht-Links</a></div>
+<div class='pscContent'>00:39:52.168 <a href='https://taz.de/Die-neue-Fuehrung-der-Linkspartei/!5754225/'>Freudiger Versprecher</a></div>
+<div class='pscContent'>00:49:12.168 <a href='https://twitter.com/wirklichewelt/status/1364840238049349632'>Lieferando macht fiese SEO</a></div>
+<div class='pscContent'>00:50:53.168 <a href='https://taz.de/Sicherheitsluecken-bei-Sturm-auf-Kapitol/!5750660/'>Schuldzuweisungen</a></div>
+<div class='pscContent'>00:51:48.168 <a href='https://twitter.com/hami/status/1365339498364604419'>Eine rechte Bühne</a></div>
+<div class='pscContent'>00:54:35.168 <a href='https://taz.de/US-Luftangriff-im-Nahen-Osten/!5754071/'>Biden bombt</a></div>
+<div class='pscContent'>00:57:36.168 <a href='http://act-out.org/'>#ActOut</a></div>
+<div class='pscContent'>01:03:50.168 <a href='https://en.wikipedia.org/wiki/Stan_Twitter'>Mustergütiger Shitstorm</a></div>
+<div class='pscContent'>01:10:47.168 <a href='https://www.theverge.com/2021/2/25/22301375/twitter-super-follows-communities-paid-followers'>Twitter will Geld verdienen</a></div>
+<div class='pscContent'>01:13:58.168 <a href='https://de.wikipedia.org/wiki/Heinz_Hermann_Thiele'>Heinz Hermann Thiele</a></div>
+<div class='pscContent'>01:14:52.168 <a href='https://www.tagesschau.de/ausland/russland/gorbatschow-geburtstag-101.html'>Gorbatschows 90.</a></div>
+<div class='pscContent'>01:16:19.168 <a href='https://www.rnd.de/panorama/hamburg-16-tonnen-kokain-vom-zoll-sichergestellt-grosster-fund-europas-GNV5FJUDUSOPV4TMMSHLKUJZEQ.html'>Monty-Python-Fund</a></div>
+<div class='pscContent'>01:17:49.168 <a href='https://hamburg1.de/news/13673'>Brücke angeditscht</a></div>
+<div class='pscContent'>01:20:03.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Illegale-Partys-in-Hamburgs-Innenstadt-und-in-Parks,hamj106280.html'>Park-Party</a></div>
+<div class='pscContent'>01:24:41.168 <a href='https://hamburg1.de/news/13671'>Esplanaden-Umbau</a></div>
+<div class='pscContent'>01:26:31.168 <a href='https://www.mopo.de/hamburg/naechster-zoff-schon-wieder-droht-ein-bruecken-abriss-in-hamburg--38107408'>Brücken-Zoff, die Zweite</a></div>
+<div class='pscContent'>01:29:30.168 <a href='https://artsandculture.google.com/story/GwWR8xKh_KHYfg'>Virtuell nach Peking</a></div>
+<div class='pscContent'>01:30:42.168 <a href='https://twitter.com/hochbahn/status/1366390442389037058'>E-Bus-Betriebshof</a></div>
+<div class='pscContent'>01:32:40.168 <a href='https://twitter.com/wirklichewelt/status/1364645123942985733'>Kabel-Kapper</a></div>
+<div class='pscContent'>01:34:49.168 <a href='https://www.golem.de/news/wallstreetbets-gamestop-aktie-steigt-massiv-handel-zeitweise-gestoppt-2102-154483.html'>Gamestop-Aktie geht hoch</a></div>
+<div class='pscContent'>01:35:52.168 <a href='https://www.youtube.com/watch?v=T7Qebx2TqP0'>(No)LEGO-Weekend</a></div>
+<div class='pscContent'>01:46:38.168 <a href='https://www.golem.de/news/roomba-i7-und-s9-saugroboter-kreiseln-nach-firmware-update-wie-betrunken-2102-154479.html'>Drunken Robot</a></div>
+<div class='pscContent'>01:47:55.168 <a href='https://www.golem.de/news/familienfotos-myheritage-laesst-tote-mit-deepfakes-wiederauferstehen-2102-154540.html'>Vintage-Deepfake</a></div>
+<div class='pscContent'>01:49:55.168 <a href='https://twitter.com/Guacam_Olee/status/1365688233624039427'>Better #jubilate than never</a></div>
+<div class='pscContent'>01:53:20.168 <a href='https://twitter.com/tmigge/status/1362659652190801920'>Clark-App</a></div>
+<div class='pscContent'>01:59:47.168 <a href='https://twitter.com/Guacam_Olee/status/1365635693003894785'>UK-VPN führt zu Clickbait-Werbung</a></div>
+<div class='pscContent'>02:01:45.168 <a href='https://www.golem.de/news/boston-dynamics-spot-roboter-polizeihund-digidog-in-der-bronx-eingesetzt-2102-154515.html'>Polizei-Roboter mit Notaus-Griff</a></div>
+<div class='pscContent'>02:04:43.168 <a href='https://www.heise.de/hintergrund/Taeuschend-echtes-Fleisch-aus-Pflanzen-Redefine-Meat-kommt-nach-Deutschland-5066882.html'>Essen wie gedruckt</a></div>
+<div class='pscContent'>02:09:17.168 <a href='https://www.theverge.com/2021/3/1/22307013/gab-hack-data-ceo-demon-hackers'>Gab-Hack</a></div>
+<div class='pscContent'>02:10:28.168 <a href='https://www.golem.de/news/telekom-chef-de-mail-ist-ein-toter-gaul-2103-154574.html'>De-Mail-Fail</a></div>
+<div class='pscContent'>02:12:40.168 <a href='https://twitter.com/Guacam_Olee/status/1364279624491028486'>Jubel über PSVR2</a></div>
+<div class='pscContent'>02:16:57.168 <a href='https://www.slashfilm.com/total-recall-honest-trailer-theres-a-lot-of-the-matrix-and-avatar-in-this-movie/'>Total Recall</a></div>
+<div class='pscContent'>02:23:41.168 <a href='https://twitter.com/Guacam_Olee/status/1364620398319570944'>Spiele für Lau</a></div>
+<div class='pscContent'>02:26:12.168 <a href='https://twitter.com/Guacam_Olee/status/1364618221081534472'>Unfreiwilliges Retro-Gaming</a></div>
+<div class='pscContent'>02:27:47.168 <a href='http://www.robots-and-dragons.de/news/124279-district-9-neill-blomkamp-hat-drehbuch-zur-fortsetzung-begonnen'>Späte Fortsetzung</a></div>
+<div class='pscContent'>02:29:42.168 <a href='https://twitter.com/Guacam_Olee/status/1364613896728940546'>Pommes-Messer</a></div>
+<div class='pscContent'>02:32:05.168 <a href='https://blog.de.playstation.com/2021/02/25/willkommen-in-knockout-city-der-dodgebrawl-hauptstadt-der-welt/'>Sony-Event</a></div>
+<div class='pscContent'>02:33:55.168 <a href='https://www.golem.de/news/sony-playstation-5-spieler-muessen-wohl-noch-warten-2102-154466.html'>PS5 ab Sommer, GT später</a></div>
+<div class='pscContent'>02:35:13.168 <a href='https://www.golem.de/news/actionspiel-us-politiker-fordern-verbot-von-grand-theft-auto-2102-154425.html'>GTA-Verbot in Chicago</a></div>
+<div class='pscContent'>02:35:52.168 <a href='https://de.wikipedia.org/wiki/Der_wilde_wilde_Westen'>Mel Brooks goes West</a></div>
+<div class='pscContent'>02:42:25.168 <a href='https://twitter.com/magischerfcblog/status/1365781838803918853'>Schuss in Ofen</a></div>
+<div class='pscContent'>02:43:26.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-gewinnt-das-derby-heimspiel-gegen-den-hamburger-sv-2021/'>Schuss ins Tor</a></div>
+<div class='pscContent'>02:49:42.168 <a href='https://www.youtube.com/watch?v=Ty8zbkoVihQ'>Bricked Car</a></div>
+<div class='pscContent'>03:10:22.168 <a href='https://twitter.com/Guacam_Olee/status/1366408861410803717'>Belastetes Fahrrad</a></div>
+<div class='pscContent'>03:22:57.168 <a href='https://de.wikipedia.org/wiki/Ampel#Lichtsignale_auf_Anforderung_und_zweifeldige_Signalgeber'>Ampel-Glück</a></div>
+<div class='pscContent'>03:26:06.168 <a href='https://twitter.com/Guacam_Olee/status/1366041628729896969'>Spaß mit Packstationen</a></div>
+<div class='pscContent'>03:28:42.168 <a href='https://www.blathering.de/2019/10/blathering-097-not-ausgang/'>Vor 70 Folgen: Blathering 97</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/03/blathering-167-elektrisierend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1203</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 166 &#8211; Runter kommen sie (fast) immer</title>
+		<link>https://www.blathering.de/2021/02/blathering-166-runter-kommen-sie-fast-immer/</link>
+					<comments>https://www.blathering.de/2021/02/blathering-166-runter-kommen-sie-fast-immer/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2021 13:55:57 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Dieses Mal reden wir über Flugzeuge die leicht lädiert herunterkommen, Dinge die auf anderen Planeten herunterkommen, Infektionszahlen die leider nicht so richtig herunterkommen, Schnee der herunterkommt, aufgeregte Medien, die nicht herunterkommen, Haare die immer noch nicht vom Kopf herunterkommen, Lego-Sortieraktionen und andere Geschichten aus dem Keller.]]></description>
+										<content:encoded><![CDATA[<p>Dieses Mal reden wir über Flugzeuge die leicht lädiert herunterkommen, Dinge die auf anderen Planeten herunterkommen, Infektionszahlen die leider nicht so richtig herunterkommen, Schnee der herunterkommt, aufgeregte Medien, die nicht herunterkommen, Haare die immer noch nicht vom Kopf herunterkommen, Lego-Sortieraktionen und andere Geschichten aus dem Keller.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_166.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:21.168 <a href='https://sundaymoaning.de/'>SMC-Service</a></div>
+<div class='pscContent'>00:02:01.168 <a href='https://www.youtube.com/watch?v=6UqeOTI8Xo8'>Leitendes Filament</a></div>
+<div class='pscContent'>00:03:55.168 <a href='https://www.rnd.de/panorama/drei-jahre-haft-fur-waldlaufer-von-oppenau-2TX4DFNKTRHRPHKTVYE2XH3CLU.html'>Drei Jahre für Waldläufer</a></div>
+<div class='pscContent'>00:04:25.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-02-23%20since%3A2021-02-16&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:07:36.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-02-23%20since%3A2021-02-16&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:09:13.168 <a href='https://www.tagesspiegel.de/themen/reportage/pr-desaster-fuer-weltkonzern-lego-bringt-die-treuesten-fans-gegen-sich-auf/26934832.html'>Lego eskaliert</a></div>
+<div class='pscContent'>00:09:59.168 <a href='https://www.rnd.de/reise/impf-touristen-impfstoff-dealer-die-jagd-nach-der-rettenden-spritze-IRPV4UE7DVIW7QLSY5WA5DANDE.html'>Impftourismus</a></div>
+<div class='pscContent'>00:11:54.168 <a href='https://uebermedien.de/57343/hendrik-streeck-der-mann-der-dauernd-falsch-liegt-aber-immer-wieder-als-corona-experte-gebucht-wird/'>Streeck ohne Paywall</a></div>
+<div class='pscContent'>00:12:38.168 <a href='https://twitter.com/derspiegel/status/1360273681134583809'>Worüber wir nicht reden: Hofreiter</a></div>
+<div class='pscContent'>00:13:52.168 <a href='https://twitter.com/Buecherhallen/status/1362674531706544131'>#SayTheirNames</a></div>
+<div class='pscContent'>00:17:19.168 <a href='https://twitter.com/Umweltnews/status/1362780244348928006'>Texas im Schnee</a></div>
+<div class='pscContent'>00:23:29.168 <a href='https://twitter.com/StefanLeifert/status/1362324452885860354'>AstraZeneca-Chef hat gelogen</a></div>
+<div class='pscContent'>00:27:40.168 <a href='https://www.rnd.de/politik/corona-impfung-in-arztpraxen-spatestens-ab-anfang-april-SLXA2BGLHJFIBJJZGG33D7XA6A.html'>Arztpraxen impfen ab April</a></div>
+<div class='pscContent'>00:30:52.168 <a href='https://uebermedien.de/57517/medien-kaufen-uni-wueste-materialsammlung-als-brisante-corona-studie-ab/'>Uni Hamburg blamiert sich</a></div>
+<div class='pscContent'>00:40:09.168 <a href='https://www.tagesschau.de/ausland/mars-landung-101.html'>Percy ist gelandet</a></div>
+<div class='pscContent'>00:45:51.168 <a href='https://www.rnd.de/medien/australien-fordert-ende-der-facebook-nachrichtenblockade-telefonat-mit-zuckerberg-FW4TX6OV3SXNKKP2CKMNAHNXPU.html'>Facebook vs. Australien</a></div>
+<div class='pscContent'>00:49:10.168 <a href='https://www.dw.com/de/rentner-soll-briefbomben-verschickt-haben/a-56637639'>Explosiver Serienbrief</a></div>
+<div class='pscContent'>00:51:51.168 <a href='https://www.wiwo.de/unternehmen/handel/ritter-sports-keine-schokolade-pr-ritter-sport-hat-es-geschafft-absolut-an-die-grenze-des-moeglichen-zu-gehen/26923058.html'>Gib dem Ritter Zucker</a></div>
+<div class='pscContent'>00:54:59.168 <a href='https://www.flightradar24.com/blog/united-ua328-suffers-engine-failure-departing-denver/'>Triebwerksschäden</a></div>
+<div class='pscContent'>00:58:58.168 <a href='https://taz.de/Proteste-in-Myanmar/!5753425/'>Myanmar</a></div>
+<div class='pscContent'>01:01:27.168 <a href='https://de.wikipedia.org/wiki/Rush_Limbaugh'>Rush Limbaugh</a></div>
+<div class='pscContent'>01:03:54.168 <a href='https://de.wikipedia.org/wiki/Fran%C3%A7oise_Cactus'>Françoise Cactus</a></div>
+<div class='pscContent'>01:05:55.168 <a href='https://vimeo.com/205693442'>Spirit of Hamburg</a></div>
+<div class='pscContent'>01:10:45.168 <a href='https://www.ndr.de/nachrichten/hamburg/Radfahrer-stoeren-Autokorso-von-Lockdown-Gegnern,demo3266.html'>Radfahrer gegen Schwurbler</a></div>
+<div class='pscContent'>01:12:55.168 <a href='https://hamburg1.de/news/12839'>Razzia bei Masken-Ärzten</a></div>
+<div class='pscContent'>01:14:29.168 <a href='https://twitter.com/arnesemsrott/status/1361940475679281154'>Abschiebe-Schande</a></div>
+<div class='pscContent'>01:17:09.168 <a href='https://twitter.com/Guacam_Olee/status/1362453063047524361'>Grüne Anleihe</a></div>
+<div class='pscContent'>01:20:51.168 <a href='https://www.ndr.de/nachrichten/hamburg/Gefahrgutunfall-im-Hamburger-Hafen,feuerwehr3686.html'>Gefahrgutunfall im Hafen</a></div>
+<div class='pscContent'>01:22:59.168 <a href='https://www.ndr.de/nachrichten/hamburg/Bezirk-Hamburg-Mitte-beschliesst-neue-Fahrradstrasse,fahrradstrasse152.html'>Fahrradstraße &#8220;An der Alster&#8221;</a></div>
+<div class='pscContent'>01:27:44.168 <a href='https://hamburg1.de/news/12835'>Sustainable Aerolab</a></div>
+<div class='pscContent'>01:29:09.168 <a href='https://www.golem.de/news/elektroauto-carsharing-weshare-startet-mit-400-volkswagen-id-3-in-hamburg-2102-154357.html'>WeShare startet</a></div>
+<div class='pscContent'>01:31:47.168 <a href='https://hamburg1.de/news/12896'>Floating Barkasse</a></div>
+<div class='pscContent'>01:33:12.168 <a href='https://www.reddit.com/r/raspberry_pi/comments/7eev13/raspberry_pi_3_makes_high_pitched_whining_sound/dq4k3jt'>Piiiep-Hole</a></div>
+<div class='pscContent'>01:37:10.168 <a href='https://www.tagesschau.de/wirtschaft/unternehmen/boeing-787-dreamliner-737-max-101.html'>Boeing schon wieder</a></div>
+<div class='pscContent'>01:39:04.168 <a href='https://www.golem.de/news/universal-music-lego-vidiyo-laesst-minifiguren-auf-virtuellen-buehnen-tanzen-2102-154251.html'>LEGO goes AR</a></div>
+<div class='pscContent'>01:46:48.168 <a href='https://twitter.com/Guacam_Olee/status/1363645739231043586'>Eine haarige Angelegenheit</a></div>
+<div class='pscContent'>01:51:40.168 <a href='https://www.golem.de/news/fuer-echo-lautsprecher-amazon-bringt-einen-alexa-notizzetteldrucker-2102-154362.html'>Alexa-Drucker</a></div>
+<div class='pscContent'>01:54:02.168 <a href='https://www.golem.de/news/brandgefahr-stadt-sperrt-tiefgarage-fuer-elektroautos-2102-154220.html'>Elektromobilverbot</a></div>
+<div class='pscContent'>01:55:51.168 <a href='https://www.golem.de/news/elektroautos-ford-investiert-eine-milliarde-dollar-in-koeln-2102-154267.html'>Ford investiert in Köln</a></div>
+<div class='pscContent'>01:57:40.168 <a href='https://www.golem.de/news/econelo-m1-netto-verkauft-elektro-kabinenroller-fuer-5-800-euro-2102-154365.html'>Netto verkauft Zweisitzer</a></div>
+<div class='pscContent'>02:00:36.168 <a href='https://www.golem.de/news/bundeswirtschaftsministerium-staat-will-autoindustrie-mit-1-5-milliarden-euro-unterstuetzen-2102-154358.html'>Geld für die Autoindustrie</a></div>
+<div class='pscContent'>02:01:22.168 <a href='https://www.golem.de/news/hps-domestique-21-als-rennrad-getarntes-e-bike-wiegt-nur-8-5-kg-2102-154323.html'>Leichtes e-Rennrad</a></div>
+<div class='pscContent'>02:04:37.168 <a href='https://twitter.com/MKMovie/status/1362432505236783105'>Tödliches Gekloppe</a></div>
+<div class='pscContent'>02:09:30.168 <a href='https://de.wikipedia.org/wiki/John_Wick'>John Wick</a></div>
+<div class='pscContent'>02:15:06.168 <a href='https://twitter.com/Guacam_Olee/status/1361813839310946313'>Ole hat ein Haustier</a></div>
+<div class='pscContent'>02:17:51.168 <a href='https://twitter.com/Guacam_Olee/status/1362823569697292294'>Bugs werden garantiert</a></div>
+<div class='pscContent'>02:19:33.168 <a href='https://de.wikipedia.org/wiki/Lindenberg!_Mach_dein_Ding'>Lindenberg</a></div>
+<div class='pscContent'>02:24:39.168 <a href='https://twitter.com/Guacam_Olee/status/1362874323611041792'>Bear Grylls wird gegrillt</a></div>
+<div class='pscContent'>02:29:58.168 <a href='https://twitter.com/Guacam_Olee/status/1363741310671323137'>Doktor Schneider</a></div>
+<div class='pscContent'>02:32:15.168 <a href='https://twitter.com/Guacam_Olee/status/1363632913917558794'>Switch-Konkurrent</a></div>
+<div class='pscContent'>02:35:05.168 <a href='https://www.golem.de/news/cryptocurrency-mining-processor-nvidia-geht-mit-treibersperre-gegen-schuerfer-vor-2102-154307.html'>nVidia hasht weniger</a></div>
+<div class='pscContent'>02:36:30.168 <a href='https://www.fcstpauli.com/news/fc-st-pauli-besiegt-darmstadt-98-mit-3-2/'>Der Guido wieder</a></div>
+<div class='pscContent'>02:42:54.168 <a href='https://twitter.com/search?q=%23bucketsort%20from%3A%40tmigge&#038;src=typed_query&#038;f=live'>#bucketsort</a></div>
+<div class='pscContent'>03:03:48.168 <a href='https://twitter.com/Guacam_Olee/status/1361684717121200129'>Rohr dicht statt Rohr frei</a></div>
+<div class='pscContent'>03:11:25.168 <a href='https://www.blathering.de/2019/10/blathering-096-terror-ist-kein-spiel/'>Vor 70 Folgen: Blathering 96</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/02/blathering-166-runter-kommen-sie-fast-immer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1198</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 165 &#8211; Einspruch, Euer Ehren!</title>
+		<link>https://www.blathering.de/2021/02/blathering-165-einspruch-euer-ehren/</link>
+					<comments>https://www.blathering.de/2021/02/blathering-165-einspruch-euer-ehren/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 08:48:01 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Dieses Mal reden wir über Gerichtsverhandlungen mit Ex-Präsidenten und mit Katzen. Wir reden über die neuesten Corona-Maßnahmen und -Auswirkungen. Wir verhandeln Mundraub in Bramfeld und reden über die überraschend geringe Batteriekapazität von Tobis Auto. Wir freuen uns über endlich wieder verlässliche Bayern, schauen uns Hunde in Japan an und freuen uns noch ein ganz klein wenig über den Restschnee.]]></description>
+										<content:encoded><![CDATA[<p>Dieses Mal reden wir über Gerichtsverhandlungen mit Ex-Präsidenten und mit Katzen. Wir reden über die neuesten Corona-Maßnahmen und -Auswirkungen. Wir verhandeln Mundraub in Bramfeld und reden über die überraschend geringe Batteriekapazität von Tobis Auto. Wir freuen uns über endlich wieder verlässliche Bayern, schauen uns Hunde in Japan an und freuen uns noch ein ganz klein wenig über den Restschnee.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_165.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:21.168 <a href='https://twitter.com/UprightBassist'>Neuer Listener</a></div>
+<div class='pscContent'>00:01:12.168 <a href='https://www.sendegarten.de/2021/02/14/seg116-better-done-than-perfect/'>Werbung durch Bernhard</a></div>
+<div class='pscContent'>00:01:46.168 <a href='https://hamburg1.de/news/12552'>Deckel Altona</a></div>
+<div class='pscContent'>00:03:47.168 <a href='https://www.golem.de/news/google-suche-gericht-stoppt-google-kooperation-mit-gesundheitsministerium-2102-154069.html'>Googles Gesundheitstipps</a></div>
+<div class='pscContent'>00:04:36.168 <a href='https://www.golem.de/news/bundesrat-gesetz-gegen-kabelnetzzugang-im-mietvertrag-wird-blockiert-2102-154131.html'>Kabelanschluss</a></div>
+<div class='pscContent'>00:07:36.168 <a href='https://twitter.com/silmarilshome/status/1359540532377235457'>Intern? Immer gern!</a></div>
+<div class='pscContent'>00:08:42.168 <a href='https://www.rnd.de/gesundheit/studie-beweist-corona-leugner-fungieren-als-super-spreader-45CCD4KYEBFK5JCQ5FORZZVWVY.html'>Nein! Doch! Oh!</a></div>
+<div class='pscContent'>00:09:39.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-02-16%20since%3A2021-02-09&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:12:48.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-02-16%20since%3A2021-02-09&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:14:27.168 <a href='https://www.tagesschau.de/investigativ/panorama/abschiebung-afghanistan-seehofer-103.html'>The Return of the Abgeschobenen</a></div>
+<div class='pscContent'>00:15:36.168 <a href='https://taz.de/Italiens-neue-Regierung/!5747015/'>Draghi reagiert Italien</a></div>
+<div class='pscContent'>00:17:21.168 <a href='https://dogehouse.tv/'>Clubhouse-Alternative</a></div>
+<div class='pscContent'>00:18:05.168 <a href='https://taz.de/Impeachment-gegen-Trump/!5751875/'>Impeachment gescheitert</a></div>
+<div class='pscContent'>00:18:57.168 <a href='https://lagedernation.org/2021/02/11/ldn228-impeachment-trump-north-stream-2-lockdown-tbc-lesbare-gesetze/?t=11%3A53'>Nawalny und Nordstream 2</a></div>
+<div class='pscContent'>00:23:21.168 <a href='https://www.rnd.de/politik/bund-lander-gipfel-merkel-wollte-mehr-GZ2WEWD6EVDDNHSRWCT56PMZCU.html'>Die 35 ist ein alter Hut</a></div>
+<div class='pscContent'>00:31:16.168 <a href='https://twitter.com/tmigge/status/1360567872284745728'>Urlaubsimpfung</a></div>
+<div class='pscContent'>00:37:22.168 <a href='https://threadreaderapp.com/thread/1359902325222039552.html'>PENG!-Patent</a></div>
+<div class='pscContent'>00:39:54.168 <a href='https://twitter.com/dieKadda/status/1360175795684007943'>#impfdraengler</a></div>
+<div class='pscContent'>00:46:36.168 <a href='https://uebermedien.de/57425/was-ist-das-problem-an-hendrik-streecks-auftritten-und-aussagen/'>Apropos Streeck</a></div>
+<div class='pscContent'>00:51:38.168 <a href='https://twitter.com/BergheimJeff/status/1360835285404299265'>Balken, die Lügen</a></div>
+<div class='pscContent'>00:57:07.168 <a href='https://www.tag24.de/thema/coronavirus/corona-ausbruch-auf-kreuzfahrtschiff-passagiere-in-insel-quarantaene-1833089'>Mein Schiff 2</a></div>
+<div class='pscContent'>00:57:34.168 <a href='https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/saarland_fuehrt_werbeverbot_fuer_aktionsware_ein_100.html'>Werbeverbot</a></div>
+<div class='pscContent'>00:59:18.168 <a href='https://twitter.com/vieuxrenard/status/1360551402683183111'>Noch eine Irreführung</a></div>
+<div class='pscContent'>01:02:52.168 <a href='https://www.rnd.de/politik/der-fc-bayern-gegen-corona-die-alte-arroganz-ist-zuruck-KEHYWK3XCVGKTLIADL7O7MY7FM.html'>Oh weh, FCB!</a></div>
+<div class='pscContent'>01:09:30.168 <a href='https://www.tagesschau.de/wirtschaft/unternehmen/regionalflughaefen-krise-unterstuetzung-bund-101.html'>Flughafen-Unterstützung</a></div>
+<div class='pscContent'>01:12:05.168 <a href='https://www.golem.de/news/andi-scheuers-freundin-kritik-an-wechsel-von-baers-bueroleiterin-zu-facebook-2102-154090.html'>Von Doro zu Facebook</a></div>
+<div class='pscContent'>01:14:30.168 <a href='https://www.youtube.com/watch?v=6paVhwC1oQI'>Hamburg vs. Nachbarn</a></div>
+<div class='pscContent'>01:22:12.168 <a href='https://www.ndr.de/nachrichten/hamburg/Unfall-in-Barmbek-Mercedes-rammt-Polizeiwagen,unfall15580.html'>Unfall mit Blaulicht</a></div>
+<div class='pscContent'>01:23:37.168 <a href='https://hamburg1.de/news/12278'>Doppelmord in Bramfeld</a></div>
+<div class='pscContent'>01:24:14.168 <a href='https://twitter.com/PolizeiHamburg/status/1359093376990253056'>Sauf, äh, Klautour</a></div>
+<div class='pscContent'>01:25:58.168 <a href='https://hamburg1.de/news/12428'>Nur wenig weniger Staus</a></div>
+<div class='pscContent'>01:27:06.168 <a href='https://www.fcstpauli.com/news/fc-st-pauli-und-techniker-krankenkasse-verteilen-winterjacken-an-bedurftige-und-obdachlose-menschen/'>Pullis zu Winterjacken</a></div>
+<div class='pscContent'>01:28:00.168 <a href='https://www.golem.de/news/cyberbunker-als-putzfrau-eingeschleuste-polizistin-darf-nicht-aussagen-2102-154153.html'>Cyberbunker-Aussagen</a></div>
+<div class='pscContent'>01:29:47.168 <a href='https://twitter.com/Guacam_Olee/status/1359040859145195521'>43 Liter ICE</a></div>
+<div class='pscContent'>01:33:26.168 <a href='https://www.youtube.com/watch?v=Ty8zbkoVihQ'>Operation gelungen, Auto tot</a></div>
+<div class='pscContent'>01:43:33.168 <a href='https://www.golem.de/news/kombination-mit-lieferwagen-ford-will-wieder-laufboten-einsetzen-2102-154134.html'>Letzte Meile zu Fuß</a></div>
+<div class='pscContent'>01:45:19.168 <a href='https://www.thurrott.com/cloud/microsoft-365/247108/microsoft-is-testing-a-new-dark-mode-for-word'>Schwarzes Wort</a></div>
+<div class='pscContent'>01:47:21.168 <a href='https://www.nytimes.com/2021/02/09/style/cat-lawyer-zoom.html'>IANAL? IANAC!</a></div>
+<div class='pscContent'>01:49:46.168 <a href='https://twitter.com/Guacam_Olee/status/1361086671102611456'>Keine Hilfe beim Zählen</a></div>
+<div class='pscContent'>01:56:42.168 <a href='https://www.golem.de/news/usa-hacker-manipulieren-wasser-in-aufbereitungsanlage-2102-154024.html'>USA-Wasserwerk pwned</a></div>
+<div class='pscContent'>01:59:31.168 <a href='https://fyyd.de/topic/welcome-to-the-fyydiverse'>Welcome to the fyydiverse</a></div>
+<div class='pscContent'>02:03:31.168 <a href='https://forum.golem.de/kommentare/opensource/visual-studio-code-nutzer-veraergert-ueber-microsoft-repo-in-raspberry-pi-os/also-soll-jetzt-die-foundation-jede-einzelne-repo-im-blog-ankuendigen-oder-was/141245,5858836,page=2,read.html#msg-0'>Paket-Quellen-Querelen</a></div>
+<div class='pscContent'>02:05:58.168 <a href='https://petapixel.com/2021/02/12/xiaomi-mi-11-ultra-boasts-120x-zoom-and-mini-second-screen-report/'>Mini Second Screen</a></div>
+<div class='pscContent'>02:09:23.168 <a href='https://twitter.com/Guacam_Olee/status/1359430419863732227'>Ruhe vor Amazon</a></div>
+<div class='pscContent'>02:10:56.168 <a href='https://www.pulumi.com/'>Pulumi 4 Terraform</a></div>
+<div class='pscContent'>02:15:07.168 <a href='https://www.gamestar.de/artikel/cyberpunk-2077-cyberangriff-cd-projekt,3366787.html'>Cyberpunk pwned</a></div>
+<div class='pscContent'>02:18:59.168 <a href='https://deadline.com/2021/02/mandalorian-gina-carano-lucas-film-responds-to-controversial-statement-1234691898/'>Lucas feuert Gina</a></div>
+<div class='pscContent'>02:26:10.168 <a href='https://twitter.com/thegameawards/status/1359711145288814592?s=20'>Last-of-us-Verfilmung</a></div>
+<div class='pscContent'>02:28:50.168 <a href='https://de.wikipedia.org/wiki/Wanted_(2008)'>Wanted</a></div>
+<div class='pscContent'>02:33:57.168 <a href='https://twitter.com/geoffkeighley/status/1359926863104069634?s=20'>Borderlands-Verfilmung</a></div>
+<div class='pscContent'>02:37:13.168 <a href='https://twitter.com/Guacam_Olee/status/1359946930458152963'>Wes&#8217; Film ich schau &#8230;</a></div>
+<div class='pscContent'>02:47:09.168 <a href='https://www.hfv.de/artikel/werner-otto-preis-inklusions-team-des-bramfelder-sv-ausgezeichnet/'>Werner-Otto-Preis</a></div>
+<div class='pscContent'>02:50:33.168 <a href='https://www.fcstpauli.com/news/nachbericht-nurnberg/'>Dritter Sieg in Folge</a></div>
+<div class='pscContent'>02:56:02.168 <a href='https://www.stickermule.com/de/blog/on-phone-support'>LiefeRANT: Oh, wait &#8230;</a></div>
+<div class='pscContent'>02:59:25.168 <a href='https://www.dhl.de/de/privatkunden/pakete-empfangen/pakete-zuhause-empfangen/ablageort.html'>More LiefeRANT</a></div>
+<div class='pscContent'>03:01:44.168 <a href='https://twitter.com/Guacam_Olee/status/1359902734070276101'>Ole hat den Durchblick</a></div>
+<div class='pscContent'>03:04:40.168 <a href='https://twitter.com/tmigge/status/1360950951574650889'>Geburtstag in Zeiten von Corona</a></div>
+<div class='pscContent'>03:21:22.168 <a href='https://twitter.com/Guacam_Olee/status/1360661166683545604'>Fahrradspaß</a></div>
+<div class='pscContent'>03:26:07.168 <a href='https://www.blathering.de/2019/10/blathering-095-ueber-pfirsiche-orangen-aepfel-und-birnen/'>Vor 70 Folgen: Blathering 95</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/02/blathering-165-einspruch-euer-ehren/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1193</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 164 &#8211; Über Spritzen und Pillen</title>
+		<link>https://www.blathering.de/2021/02/blathering-164-ueber-spritzen-und-pillen/</link>
+					<comments>https://www.blathering.de/2021/02/blathering-164-ueber-spritzen-und-pillen/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 09 Feb 2021 09:00:36 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Dieses Mal reden wir über alte und neue Impfprobleme, über weißes Zeug von oben, über Pillen, die man mit Füßen tritt, über Hahndrang in Hamburg, über alte Flugzeuge, neue Technik sowie alte Filme und Serien.]]></description>
+										<content:encoded><![CDATA[<p>Dieses Mal reden wir über alte und neue Impfprobleme, über weißes Zeug von oben, über Pillen, die man mit Füßen tritt, über Hahndrang in Hamburg, über alte Flugzeuge, neue Technik sowie alte Filme und Serien.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_164.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:36.168 <a href='https://www.blathering.de/2021/02/blathering-163-impfdosenfund/#comment-55'>Mikro-Podcasts</a></div>
+<div class='pscContent'>00:01:37.168 <a href='https://www.golem.de/news/wallstreetbets-gamestop-aktie-stuerzt-ab-2102-153868.html'>Gamestop: Kurs unten</a></div>
+<div class='pscContent'>00:02:56.168 <a href='https://www.friedhof-hamburg.de/die-friedhoefe/ohlsdorf/schranke/'>Ohlsdorf: Schranke unten</a></div>
+<div class='pscContent'>00:04:20.168 <a href='https://twitter.com/HobbyQS/status/1356940602500382723'>Masken-Sandwich</a></div>
+<div class='pscContent'>00:05:35.168 <a href='https://twitter.com/WestkirchenAndi/status/1356990564223356943'>Hörer-Bestätigung</a></div>
+<div class='pscContent'>00:06:01.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-02-09%20since%3A2021-02-02&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:08:15.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-02-09%20since%3A2021-02-02&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:11:34.168 <a href='https://www.derstandard.at/story/2000123899154/parlers-ceo-sagt-er-wurde-gefeuert-weil-er-neonazis-loeschen'>Parler-Chef: gegangen worden</a></div>
+<div class='pscContent'>00:12:37.168 <a href='https://www.businessinsider.com/mypillow-made-three-hour-film-about-election-trump-2021-2'>Kissen-Verschwörung</a></div>
+<div class='pscContent'>00:13:55.168 <a href='https://twitter.com/AndyGrote/status/1357669033039065088'>schwarz vs. schwarzer</a></div>
+<div class='pscContent'>00:16:01.168 <a href='https://www.rnd.de/promis/jan-fedder-promenade-in-hamburg-grunen-politiker-wollen-keine-mannernamen-ZUEOLMMSOZHS7C5F26HGUU6QQA.html'>Ausgefeddert?</a></div>
+<div class='pscContent'>00:18:22.168 <a href='https://twitter.com/nycsouthpaw/status/1358443650070564869'>Mal wieder Handyortung</a></div>
+<div class='pscContent'>00:19:39.168 <a href='https://twitter.com/Guacam_Olee/status/1358353598921510917'>Stinkefingerfrau</a></div>
+<div class='pscContent'>00:21:33.168 <a href='https://www.rnd.de/medien/lockdown-kritik-von-marlene-lufen-wie-viel-wahrheit-steckt-in-dem-instagram-video-oder-hinkt-die-argumentation-der-moderatorin-HWTFXFVBMZGHLF56HPFYLCWY6Y.html'>Worüber wir nicht reden</a></div>
+<div class='pscContent'>00:24:01.168 <a href='https://www.rnd.de/politik/halle-im-rathaus-konnten-noch-mehr-personen-vorzeitig-geimpft-worden-sein-OJIZTUQOSJDUJCDLBMLYSVI77Q.html'>Übers Impfen schimpfen</a></div>
+<div class='pscContent'>00:34:19.168 <a href='https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Virologin-Brinkmann-Mit-diesem-Kurs-haben-wir-keine-Chance,brinkmann236.html'>Der Plan ab nächster Woche</a></div>
+<div class='pscContent'>00:40:00.168 <a href='https://de.wikipedia.org/wiki/Lake_Effect'>Schnee!1elf</a></div>
+<div class='pscContent'>00:52:44.168 <a href='https://www.zeit.de/politik/ausland/2021-02/republikanische-partei-usa-liz-cheney-majorie-taylor-greene-qanon-donald-trump/komplettansicht'>Both Sides</a></div>
+<div class='pscContent'>00:56:53.168 <a href='https://www.golem.de/news/rechtsextremismus-das-veroeffentlichen-von-feindeslisten-soll-bestraft-werden-2102-153967.html'>Feindeslisten strafbar</a></div>
+<div class='pscContent'>00:57:55.168 <a href='https://meedia.de/2021/02/08/wdr-weist-berichterstattung-des-spiegel-zurueck/'>Schon WieDeR</a></div>
+<div class='pscContent'>01:02:11.168 <a href='https://www.golem.de/news/leistungsschutzrecht-und-uploadfilter-bundesregierung-beschliesst-urheberrechtsreform-2102-153880.html'>Uploadfilter</a></div>
+<div class='pscContent'>01:04:49.168 <a href='https://twitter.com/BaydarIdil/status/1358072386948653065'>#nonpology</a></div>
+<div class='pscContent'>01:13:08.168 <a href='http://www.nollendorfblog.de/?p=12466'>#actout</a></div>
+<div class='pscContent'>01:19:53.168 <a href='https://frontexfiles.eu/'>#frontexfiles</a></div>
+<div class='pscContent'>01:22:59.168 <a href='https://www.sportbuzzer.de/artikel/tom-brady-mvp-super-bowl-rekord-buccaneers-chiefs-nfl-titel-mahomes-reaktionen/'>Super Bowl</a></div>
+<div class='pscContent'>01:34:02.168 <a href='https://de.wikipedia.org/wiki/Tom_Moore_(Soldat)'>Tom Moore</a></div>
+<div class='pscContent'>01:36:32.168 <a href='https://de.wikipedia.org/wiki/Christopher_Plummer'>Christopher Plummer</a></div>
+<div class='pscContent'>01:38:50.168 <a href='https://www.rnd.de/panorama/polizei-findet-180-lebende-hahne-in-hamburger-restaurant-2KTE4VHK6PNXGJOSR2ZLZGWDQY.html'>Hahnenparty</a></div>
+<div class='pscContent'>01:40:29.168 <a href='https://www.airliners.de/hamburger-flughafen-trennt-eigener-boeing-707/59213'>Go to heaven, 707!</a></div>
+<div class='pscContent'>01:42:46.168 <a href='https://hamburg1.de/news/11529'>Köhlbrandtunnel</a></div>
+<div class='pscContent'>01:43:34.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/A7-Deckel-in-Stellingen-mit-Festakt-eingeweiht,hamj105494.html'>Deckel eingeweiht</a></div>
+<div class='pscContent'>01:45:23.168 <a href='https://www.abendblatt.de/hamburg/article231482869/Ottensen-macht-Platz-Deutscher-Verkehrsplanungspreis-2020-Hamburg-Altona-Auszeichnung-Verkehrsprojekt-Innovation-autofrei.html'>Ottensen macht Platz</a></div>
+<div class='pscContent'>01:46:24.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Neuer-Warnstreik-bei-der-HHLA,hamj105402.html'>HHLA-Streik</a></div>
+<div class='pscContent'>01:48:49.168 <a href='https://a16z.com/portfolio/'>Clubhouse@Sendegarten</a></div>
+<div class='pscContent'>01:54:44.168 <a href='https://www.golem.de/news/e-commerce-gigant-jeff-bezos-gibt-bei-amazon-die-z-gel-ab-2102-153861.html'>Jeff Bezos geht</a></div>
+<div class='pscContent'>01:56:58.168 <a href='https://petapixel.com/2021/02/05/oppo-develops-double-sided-pop-up-smartphone-camera/'>Mehrwegkamera</a></div>
+<div class='pscContent'>02:00:52.168 <a href='https://www.golem.de/news/trinkgelder-unterschlagen-amazon-zahlt-62-millionen-us-dollar-an-lieferfahrer-2102-153875.html'>Amazon vergleicht sich</a></div>
+<div class='pscContent'>02:01:58.168 <a href='https://twitter.com/tmigge/status/1358497417440743427'>Ein Loch ist im Kuchen</a></div>
+<div class='pscContent'>02:10:17.168 <a href='https://www.golem.de/news/zwift-jetzt-cheaten-sie-sogar-auf-dem-rennrad-2102-153955.html'>Zwift-Cheaterinnen</a></div>
+<div class='pscContent'>02:15:08.168 <a href='https://www.bleepingcomputer.com/news/security/new-phishing-attack-uses-morse-code-to-hide-malicious-urls/'>.&#8211;. &#8230;. .. &#8230; &#8230;. .. -. &#8211;.</a></div>
+<div class='pscContent'>02:17:48.168 <a href='https://www.golem.de/news/nespresso-kaffee-flatrate-fuer-sicherheitsforscher-2102-153968.html'>Nespresso-Flatrate</a></div>
+<div class='pscContent'>02:18:57.168 <a href='https://www.golem.de/news/brennstoffzellenfahrzeug-fraunhofer-ifam-entwickelt-wasserstoffspeichernde-paste-2102-153887.html'>Wasserstoff-Paste</a></div>
+<div class='pscContent'>02:22:27.168 <a href='https://twitter.com/Guacam_Olee/status/1358519442171449344'>[S|L]EG[A|O]</a></div>
+<div class='pscContent'>02:24:54.168 <a href='https://de.wikipedia.org/wiki/Lego_Dimensions'>LEGO-Dimensionen</a></div>
+<div class='pscContent'>02:35:48.168 <a href='https://twitter.com/Guacam_Olee/status/1357804152013918210'>Control ist meh</a></div>
+<div class='pscContent'>02:37:28.168 <a href='https://twitter.com/Guacam_Olee/status/1358129294359330818'>Füßgangerhilfe</a></div>
+<div class='pscContent'>02:41:17.168 <a href='https://brightside.me/wonder-curiosities/15-times-disney-cheated-and-used-the-same-illustrations-in-different-cartoons-404010/'>Disney: Copy and Paste</a></div>
+<div class='pscContent'>02:46:37.168 <a href='https://twitter.com/Guacam_Olee/status/1357437518266982402'>Retro-Freunde</a></div>
+<div class='pscContent'>02:48:05.168 <a href='https://twitter.com/Guacam_Olee/status/1358453734267887617'>Retro-Fahrzeuge</a></div>
+<div class='pscContent'>02:52:11.168 <a href='https://www.youtube.com/watch?v=Tkkuil-U6qQ'>Filmrätsel</a></div>
+<div class='pscContent'>03:00:54.168 <a href='https://twitter.com/Guacam_Olee/status/1357409894304014338'>Pulleralarm-TV</a></div>
+<div class='pscContent'>03:05:15.168 <a href='https://www.golem.de/news/asus-rog-ikea-stellt-gaming-moebel-vor-2102-153908.html'>IKEA: Gaming-Möbel</a></div>
+<div class='pscContent'>03:06:39.168 <a href='https://screenrant.com/shadow-mordor-nemesis-system-patent-wb-games-approved/'>WB patentiert Nemesis</a></div>
+<div class='pscContent'>03:10:10.168 <a href='https://www.fcstpauli.com/news/der-fc-st-pauli-gewinnt-sein-heimspiel-gegen-den-sv-sandhausen-2021/'>Keine Flausen in Sandhausen</a></div>
+<div class='pscContent'>03:13:31.168 <a href='https://www.hfv.de/artikel/ausserordentlicher-verbandstag-wird-ueber-saisonabbruch-des-hfv-entscheiden/'>Der Ball bleibt liegen</a></div>
+<div class='pscContent'>03:15:16.168 <a href='https://hamburg1.de/news/11595'>Auto auf Spielfeld</a></div>
+<div class='pscContent'>03:16:21.168 <a href='https://twitter.com/tim_ecksteen/status/1357427883778711555?s=20'>Millerntor vs. BILD</a></div>
+<div class='pscContent'>03:18:30.168 <a href='https://twitter.com/Guacam_Olee/status/1358720119015411713'>Homeoffice on Ice</a></div>
+<div class='pscContent'>03:20:18.168 <a href='https://twitter.com/tmigge/status/1358164351543296004'>Zimmerpflanze</a></div>
+<div class='pscContent'>03:24:50.168 <a href='https://twitter.com/Guacam_Olee/status/1358721547431784448'>Cargobike</a></div>
+<div class='pscContent'>03:26:37.168 <a href='https://www.blathering.de/2019/10/blathering-094-lecker-einheitsbrei/'>Vor 70 Folgen: Blathering 94</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/02/blathering-164-ueber-spritzen-und-pillen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1190</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 163 &#8211; Impfdosenfund</title>
+		<link>https://www.blathering.de/2021/02/blathering-163-impfdosenfund/</link>
+					<comments>https://www.blathering.de/2021/02/blathering-163-impfdosenfund/#comments</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2021 08:45:42 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[In dieser (etwas verspäteten) Ausgabe verkaufen wir leere Dinge, diskutieren - mal wieder - über Impfdosen und -strategien, lassen es in Hamburg bei und im Millerntorstadion so richtig krachen, reden dabei NICHT live mit der Bild-Zeitung, schauen alte und neue Filme, spielen alte und neue Spiele (aber ohne Stadia) und schlittern auf Sommerreifen durch den Schnee.]]></description>
+										<content:encoded><![CDATA[<p>In dieser (etwas verspäteten) Ausgabe verkaufen wir leere Dinge, diskutieren &#8211; mal wieder &#8211; über Impfdosen und -strategien, lassen es in Hamburg bei und im Millerntorstadion so richtig krachen, reden dabei NICHT live mit der Bild-Zeitung, schauen alte und neue Filme, spielen alte und neue Spiele (aber ohne Stadia) und schlittern auf Sommerreifen durch den Schnee.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_163.psc --></p>
+<div class="entry-meta">
+<p><span class="pscHeader">Pingbacks:</span></p>
+<div class="pscContent">00:00:21.168 <a href="https://twitter.com/WestkirchenAndi/status/1355165405669679105">Clipping, Logos, neuer Hörer</a></div>
+<div class="pscContent">00:02:10.168 <a href="https://www.rnd.de/politik/nawalnys-palast-video-immobilie-laut-kreml-in-unternehmer-besitz-IZU2JRASPA3D4IMYYICNJI4QGU.html">Palast-Rätsel</a></div>
+<div class="pscContent">00:03:30.168 <a href="https://twitter.com/zweitzehtee/status/1354874856404373509">Lady Gaga</a></div>
+<div class="pscContent">00:04:28.168 <a href="https://twitter.com/herg4711/status/1354317579461009410?s=20">Hannover: kein Tempo 30</a></div>
+<div class="pscContent">00:06:10.168 <a href="https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-02-02%20since%3A2021-01-26&amp;src=typed_query&amp;f=live">@compod: Gesammelte Werke</a></div>
+<div class="pscContent">00:08:16.168 <a href="https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-02-02%20since%3A2021-01-26&amp;src=typed_query&amp;f=live">#DansGesammelteWerke</a></div>
+<div class="pscContent">00:09:54.168 <a href="https://www.vice.com/en/article/4ad5xp/we-spoke-to-a-guy-who-got-his-dick-locked-in-a-cage-by-a-hacker">Gefangenen-Interview</a></div>
+<div class="pscContent">00:11:20.168 <a href="https://variety.com/2021/digital/news/kellyanne-conway-accused-topless-photo-daughter-claudia-twitter-1234892220/">Kellyanne Conway ist Rabenmutter</a></div>
+<div class="pscContent">00:12:48.168 <a href="https://www.thedailybeast.com/wisconsin-vaccine-saboteur-steven-brandenburg-is-a-flat-earther-fbi-document-reveals">Impfstoffvernichter ist Flacherdler</a></div>
+<div class="pscContent">00:16:01.168 <a href="https://twitter.com/Schmidtlepp/status/1354373340329349123">Bodo im Vereinsheim</a></div>
+<div class="pscContent">00:20:46.168 <a href="https://logbuch-netzpolitik.de/lnp378-der-schwarze-block-faehrt-jetzt-tesla">Stop, in the Game of Short!</a></div>
+<div class="pscContent">00:39:07.168 <a href="https://www.mopo.de/hamburg/polizeieinsatz-in-hamburg-weil-er-schwarz-ist--lehrer-wird-fuer-einbrecher-gehalten--37963394">Hamburgs traurige Berühmtheit</a></div>
+<div class="pscContent">00:45:01.168 <a href="https://www.rnd.de/medien/wdr-talkshow-die-letzte-instanz-sender-reagiert-auf-rassismus-kritik-PQMCTAAY5FAZLHL4LVTU7PDC6E.html">Distanz zur Instanz</a></div>
+<div class="pscContent">00:52:05.168 <a href="https://www.rnd.de/gesundheit/astrazeneca-liefert-der-eu-nun-doch-mehr-impfstoff-PRWI2HGT3TCIDCISHMTJUPWATU.html">Impfstoff-Debakel</a></div>
+<div class="pscContent">01:08:19.168 <a href="https://www.tagesschau.de/inland/corona-schnelltests-spahn-101.html">Schnelltest kommen. Nicht.</a></div>
+<div class="pscContent">01:12:04.168 <a href="https://www.stern.de/gesundheit/corona-leugner-wollen-covid-patienten-von-intensivstation-mitnehmen-30207490.html">Krankenhausstürmer in UK</a></div>
+<div class="pscContent">01:13:56.168 <a href="https://www.schleswig-holstein.de/DE/Landesregierung/I/_startseite/Artikel2021/I/210126_stufenplan.html">Schleswig-Holstein will irischen Weg</a></div>
+<div class="pscContent">01:19:44.168 <a href="https://www.tagesschau.de/ausland/amerika/impeachment-verfahren-trump-anwaelte-101.html">Trumps Team-Building</a></div>
+<div class="pscContent">01:20:55.168 <a href="https://www.rnd.de/politik/lubcke-morder-stephan-ernst-zu-lebenslanger-haft-verurteilt-mitangeklagter-markus-h-von-beihilfe-zum-mord-freigesprochen-OIODVS5LO5DDFHBYZSMAQKX75A.html">Lebenslang</a></div>
+<div class="pscContent">01:22:35.168 <a href="https://www.deutschlandfunk.de/der-tag-militaerputsch-in-myanmar.3415.de.html?dram:article_id=491815">Putsch in Myanmar</a></div>
+<div class="pscContent">01:26:43.168 <a href="https://www.ndr.de/nachrichten/hamburg/Fliegerbombe-auf-dem-Heiligengeistfeld-entschaerft,heiligengeistfeld128.html">Mal wieder eine Bombe</a></div>
+<div class="pscContent">01:28:01.168 <a href="https://www.ndr.de/nachrichten/hamburg/Bootshalle-an-Alster-Ausflugslokal-abgebrannt,feuer5010.html">Mal wieder ein Feuer</a></div>
+<div class="pscContent">01:29:31.168 <a href="https://www.hinzundkunzt.de/hamburg-obdachlose-notunterkunft-einzelzimmer/">Obdachlosenhilfe</a></div>
+<div class="pscContent">01:31:49.168 <a href="https://www.rnd.de/panorama/schlittenfahren-und-winterspaziergang-trotz-corona-schnee-erfreut-menschen-in-grossstadten-polizei-muss-tatig-werden-RUVDHXUOG3ITUM4DT4GT7C24GM.html">Schnee-Sperrungen</a></div>
+<div class="pscContent">01:33:53.168 <a href="https://twitter.com/Guacam_Olee/status/1354861532606296067">Peter Kleffmann</a></div>
+<div class="pscContent">01:35:40.168 <a href="https://www.golem.de/news/flugzeuge-mann-funkt-piloten-an-und-gibt-gefaehrliche-anweisungen-2101-153790.html">Illegale Funksprüche</a></div>
+<div class="pscContent">01:38:08.168 <a href="https://twitter.com/tmigge/status/1354139188808085506">Logos? Logo!</a></div>
+<div class="pscContent">01:43:05.168 <a href="https://www.rnd.de/medien/lego-geht-mit-anwalt-gegen-youtuber-wegen-streit-ums-markenrecht-vor-564THXE6FJF77IAOJI7ZFJ3AHM.html">LEGO? No go!</a></div>
+<div class="pscContent">01:46:39.168 <a href="https://twitter.com/Guacam_Olee/status/1354025630250237952">Heißes Ende</a></div>
+<div class="pscContent">01:52:43.168 <a href="https://arstechnica.com/gadgets/2021/02/flash-no-longer-works-in-browsers-so-south-africa-made-its-own-browser/">SARS Browser mit Blitz</a></div>
+<div class="pscContent">01:55:26.168 <a href="https://www.golem.de/news/laserpecker-2-mini-laserschneider-graviert-ipads-holz-leder-und-stoffe-2101-153769.html">Laserpecker 2</a></div>
+<div class="pscContent">01:58:12.168 <a href="https://twitter.com/Guacam_Olee/status/1354469883749216261">Teures Zubehör</a></div>
+<div class="pscContent">02:06:09.168 <a href="https://sendegate.de/t/studiolink-quickweb/13054">StudioLink QuickWeb</a></div>
+<div class="pscContent">02:08:28.168 <a href="https://twitter.com/Guacam_Olee/status/1356595605804572674">BlueToothRayPlayer</a></div>
+<div class="pscContent">02:13:10.168 <a href="https://futurezone.at/digital-life/alte-smartphones-james-bond-szenen-muessen-nachgedreht-werden/401170237">Bond-Nachdreh</a></div>
+<div class="pscContent">02:16:03.168 <a href="https://twitter.com/Guacam_Olee/status/1356334554961899520">Ins Hotel?!</a></div>
+<div class="pscContent">02:21:34.168 <a href="https://de.wikipedia.org/wiki/The_King_of_Staten_Island">King of Staten Island</a></div>
+<div class="pscContent">02:28:29.168 <a href="https://twitter.com/Guacam_Olee/status/1355663097441218561">Messer raus!</a></div>
+<div class="pscContent">02:32:37.168 <a href="https://www.moviebreak.de/film/guns-akimbo">Guns Akimbo</a></div>
+<div class="pscContent">02:39:25.168 <a href="https://twitter.com/Guacam_Olee/status/1356510672813764608">RIP Stadia?</a></div>
+<div class="pscContent">02:42:19.168 <a href="https://twitter.com/Guacam_Olee/status/1354470336755068929">Control Ultimate Edition</a></div>
+<div class="pscContent">02:44:47.168 <a href="https://twitter.com/Guacam_Olee/status/1355618991499325440">Retro-Gaming</a></div>
+<div class="pscContent">02:48:09.168 <a href="https://twitter.com/tmigge/status/1354824246174732288">Disney+: Rein</a></div>
+<div class="pscContent">02:50:46.168 <a href="https://www.golem.de/news/disney-disney-klassiker-wegen-stereotypen-aus-kinderprofil-entfernt-2101-153772.html">Disney+: Raus</a></div>
+<div class="pscContent">02:52:37.168 <a href="https://www.ndr.de/fernsehen/sendungen/laender-menschen-abenteuer/Vom-Fjell-zu-den-Fjorden,sendung1120146.html">Von Fjell zu den Fjorden</a></div>
+<div class="pscContent">02:53:34.168 <a href="https://www.youtube.com/watch?v=_BliiYipeE4">Hitman 3 VR</a></div>
+<div class="pscContent">02:58:43.168 <a href="https://twitter.com/fcstpauli/status/1355110041762869248">Under-Armour-Ausverkauf</a></div>
+<div class="pscContent">03:00:20.168 <a href="https://www.fcstpauli.com/news/der-fc-st-pauli-verpflichtet-innenverteidiger-tore-reginiussen/">Noch ein neuer Spieler</a></div>
+<div class="pscContent">03:01:43.168 <a href="https://twitter.com/fcstpauli/status/1354762471823831041">Lankford verweht</a></div>
+<div class="pscContent">03:02:16.168 <a href="https://twitter.com/fcstpauli/status/1356286811157491714">Senger wird Roter Teufel</a></div>
+<div class="pscContent">03:03:08.168 <a href="https://twitter.com/fcstpauli/status/1356536309335089154">Himmelmann nach Belgien</a></div>
+<div class="pscContent">03:04:06.168 <a href="https://www.fcstpauli.com/news/der-fc-st-pauli-unterliegt-dem-vfl-bochum-mit-2-3-2021/">Nix gegen den Zweiten</a></div>
+<div class="pscContent">03:05:26.168 <a href="https://www.fcstpauli.com/news/der-fc-st-pauli-gewinnt-auswaertsspiel-in-heidenheim-2021/">Erste Punkte aus Heidenheim</a></div>
+<div class="pscContent">03:09:14.168 <a href="https://twitter.com/Guacam_Olee/status/1356175774886350849">Jahrestrittaus</a></div>
+<div class="pscContent">03:12:07.168 <a href="https://www.hvv.de/de/profiticket">Keine Proficard mehr</a></div>
+<div class="pscContent">03:14:08.168 <a href="https://twitter.com/Guacam_Olee/status/1349762579191767041">Krüsches Eichhörnchen</a></div>
+<div class="pscContent">03:16:51.168 <a href="https://mediathekviewweb.de/#query=Max%20Uthoff%3A%20Moskauer%20Hunde">Max Uthoff</a></div>
+<div class="pscContent">03:17:43.168 <a href="https://www.blathering.de/2019/09/blathering-093-no-future-war-gestern/">Vor 70 Folgen: Blathering 93</a></div>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/02/blathering-163-impfdosenfund/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1185</post-id>	</item>
+		<item>
+		<title>Blathering &#8211; 162 &#8211; Kein Pardon</title>
+		<link>https://www.blathering.de/2021/01/blathering-162-kein-pardon/</link>
+					<comments>https://www.blathering.de/2021/01/blathering-162-kein-pardon/#respond</comments>
+		
+		<dc:creator><![CDATA[blathering]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 08:36:28 +0000</pubDate>
+				<category><![CDATA[2021]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Wir reden dieses Mal zum garantiert allerletzten Mal über den scheidenden Präsidenten, vermutlich nicht zum letzten Mal über die Menschen, die das Ganze jetzt wieder reparieren müssen, über neue mögliche Parteigründungen am rechten Rand, widmen Jan Fedder eine schöne Aussicht, bieten ein paar Erdmännchen ein neues Zuhause, besuchen eine Kirche in 16 Bit, schenken und werden beschenkt und reparieren Regale mit ungewöhnlichen Materialien.]]></description>
+										<content:encoded><![CDATA[<p>Wir reden dieses Mal zum garantiert allerletzten Mal über den scheidenden Präsidenten, vermutlich nicht zum letzten Mal über die Menschen, die das Ganze jetzt wieder reparieren müssen, über neue mögliche Parteigründungen am rechten Rand, widmen Jan Fedder eine schöne Aussicht, bieten ein paar Erdmännchen ein neues Zuhause, besuchen eine Kirche in 16 Bit, schenken und werden beschenkt und reparieren Regale mit ungewöhnlichen Materialien.<br />
+<!-- PSC-File:https://cdn.podseed.org/blathering/blathering_162.psc --></p>
+<div class='entry-meta'><span class='pscHeader'>Pingbacks:</span></p>
+<div class='pscContent'>00:00:21.168 <a href='https://twitter.com/HansRoutin'>Neuer Follower/Hörer</a></div>
+<div class='pscContent'>00:01:01.168 <a href='https://www.blathering.de/2021/01/blathering-161-praesidiale-mietnomaden/#comment-54'>Kommentar von Bernhard</a></div>
+<div class='pscContent'>00:02:48.168 <a href='https://www.spiegel.de/politik/ausland/usa-nra-erleidet-rueckschlag-im-streit-mit-new-yorker-justiz-a-e448a594-05ab-44e6-9ed2-943673024d9e'>Gezielte Pleite</a></div>
+<div class='pscContent'>00:04:05.168 <a href='https://hamburg1.de/news/11145'>Landstrom? Später!</a></div>
+<div class='pscContent'>00:04:47.168 <a href='https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/Bebauungsplan-fuer-den-Elbtower-Gruenes-Licht,hamj104850.html'>Elbtower: grünes Licht</a></div>
+<div class='pscContent'>00:05:41.168 <a href='https://www.rnd.de/panorama/umstrittenes-tierversuchslabor-bei-hamburg-wird-zum-zentrum-fur-vernachlassigte-hunde-54ZMRZIHXUJ2HVTT4UUJT5WVFQ.html'>Vom Saulus zum Paulus</a></div>
+<div class='pscContent'>00:06:47.168 <a href='https://www.migazin.de/2021/01/20/hanau-shisha-bar-notausgang-polizei/'>Hanauer Notausgang</a></div>
+<div class='pscContent'>00:11:03.168 <a href='https://twitter.com/ardenthistorian/status/1351289918065172481'>Capitol-Besichtigung</a></div>
+<div class='pscContent'>00:12:48.168 <a href='https://taz.de/Sparprogramm-beim-NDR/!5741805/'>Es ZAPPelt im Netz</a></div>
+<div class='pscContent'>00:13:47.168 <a href='https://translate.google.com/translate?sl=auto&#038;tl=de&#038;u=https://nyheder.tv2.dk/samfund/2021-01-14-skotske-fiskere-sejler-fisk-til-danmark-efter-brexit'>Schottischer Fisch</a></div>
+<div class='pscContent'>00:14:51.168 <a href='https://www.snopes.com/fact-check/trump-white-house-looting/'>Legaler Abtransport</a></div>
+<div class='pscContent'>00:16:11.168 <a href='https://twitter.com/search?q=(from%3Acompod)%20(%40blathering_pod)%20until%3A2021-01-26%20since%3A2021-01-19&#038;src=typed_query&#038;f=live'>@compod: Gesammelte Werke</a></div>
+<div class='pscContent'>00:24:02.168 <a href='https://twitter.com/search?q=(from%3Aevildanwallace)%20(%40blathering_pod)%20until%3A2021-01-26%20since%3A2021-01-19&#038;src=typed_query&#038;f=live'>#DansGesammelteWerke</a></div>
+<div class='pscContent'>00:26:29.168 <a href='https://www.rnd.de/politik/hinterbliebene-vom-breitscheidplatz-kritisieren-ex-nrw-innenminister-jager-V57XJBJSSNHPRMZCH4CARTPIGQ.html'>Noch ein UA-Verweigerer</a></div>
+<div class='pscContent'>00:27:21.168 <a href='https://twitter.com/TalbertSwan/status/1352696683541495808'>Notebook-Diebin gefasst und entlassen</a></div>
+<div class='pscContent'>00:29:44.168 <a href='https://de.wikipedia.org/wiki/Nierenszintigrafie_mit_MAG3'>Die Nieren dinieren</a></div>
+<div class='pscContent'>00:31:18.168 <a href='https://twitter.com/Scaramouche1989/status/1351878636106883072'>Clubhouse-Notruf</a></div>
+<div class='pscContent'>00:35:22.168 <a href='https://www.derstandard.at/story/2000123483525/kreml-reagiert-zunehmend-nervoes-auf-nawalny-video'>Nawallny provoziert</a></div>
+<div class='pscContent'>00:40:52.168 <a href='https://www.zdnet.de/88391333/parler-mit-russenhilfe-wieder-da/'>Parler Reloaded</a></div>
+<div class='pscContent'>00:42:34.168 <a href='https://www.spiegel.de/politik/ausland/donald-trump-143-begnadigungen-in-letzter-minute-a-c510082c-4749-4e7b-a141-cc056addaccf'>Voll der Gnaden</a></div>
+<div class='pscContent'>00:48:15.168 <a href='https://www.rnd.de/politik/usa-joe-bidens-vereidigung-mit-mitgefuhl-ins-machtigste-amt-der-welt-LJLNTBTI7JEG5L234KBB2ECU4I.html'>Inauguration</a></div>
+<div class='pscContent'>00:55:18.168 <a href='https://twitter.com/ardenthistorian/status/1352041050253242368'>Autogrammstunde</a></div>
+<div class='pscContent'>01:04:09.168 <a href='https://www.youtube.com/watch?v=CEtbBSwR7SE'>Beau Biden</a></div>
+<div class='pscContent'>01:08:52.168 <a href='https://twitter.com/GoldenerAluhut/status/1353621874043977728'>Immer Ärger mit Bernie</a></div>
+<div class='pscContent'>01:12:38.168 <a href='https://taz.de/Einstufung-durch-Verfassungsschutz/!5745509/'>Verdachtsfall</a></div>
+<div class='pscContent'>01:13:51.168 <a href='https://twitter.com/LarsWienand/status/1352006233646112772'>Werteunion als Partei</a></div>
+<div class='pscContent'>01:17:39.168 <a href='https://epaper.tagesspiegel.de/article/bfb1e8a00f6aca0f2a9a27fec4528da0'>Seehofer informiert vorab</a></div>
+<div class='pscContent'>01:19:52.168 <a href='https://twitter.com/Krstorevic/status/1353066229892739072'>Tagesspiegel macht einen auf taz</a></div>
+<div class='pscContent'>01:22:45.168 <a href='https://kurier.at/politik/ausland/hoehere-sterblichkeit-bei-b117-experten-verwundert-ueber-johnsons-aussage/401165643'>Impfstoff-Ärger</a></div>
+<div class='pscContent'>01:32:25.168 <a href='https://gotgame.com/2021/01/21/horizon-zero-dawn-lead-principle-designer-and-concept-artist-mike-nash-has-passed-away/'>Mike Nash</a></div>
+<div class='pscContent'>01:32:52.168 <a href='https://de.wikipedia.org/wiki/Mira_Furlan'>Mira Furlan</a></div>
+<div class='pscContent'>01:33:51.168 <a href='https://de.wikipedia.org/wiki/Larry_King'>Larry King</a></div>
+<div class='pscContent'>01:36:38.168 <a href='https://www.rnd.de/wirtschaft/corona-ausbruch-bei-airbus-rund-500-mitarbeiter-mussen-in-quarantane-XQNRCLJGSPPTUHG26XUXJ63YJQ.html'>Corona bei Airbus</a></div>
+<div class='pscContent'>01:39:56.168 <a href='https://twitter.com/arbeitsunrecht/status/1351911072752676864'>Hagenbeck</a></div>
+<div class='pscContent'>01:42:49.168 <a href='https://www.hamburg.de/pressearchiv-fhh/14847126/2021-01-21-bukea-wasserstoffprojekt-am-standort-moorburg/'>Hydrogen Hub</a></div>
+<div class='pscContent'>01:46:56.168 <a href='https://hamburg1.de/news/11153'>Jan-Fedder-Promenade</a></div>
+<div class='pscContent'>01:49:33.168 <a href='https://taz.de/Instrumentalisierung-von-Jugendarbeit/!5743043/'>Gesinnungs-Umfrage</a></div>
+<div class='pscContent'>01:51:44.168 <a href='https://hamburg1.de/news/11126'>Mö ab März ganz dicht</a></div>
+<div class='pscContent'>01:53:10.168 <a href='https://hamburg1.de/news/11130'>Ex-Santa-Fu-Freigänger</a></div>
+<div class='pscContent'>01:54:02.168 <a href='https://hamburg1.de/news/11147'>U-Bahnbrückenwandler</a></div>
+<div class='pscContent'>01:56:18.168 <a href='https://hamburg1.de/news/11157'>Rekord beim Fahrradwegausbau</a></div>
+<div class='pscContent'>01:57:56.168 <a href='https://www.zdnet.de/88391350/trump-us-cloud-provider-muessen-daten-ueber-auslaender-speichern/'>Last-Minute-Executive-Order</a></div>
+<div class='pscContent'>02:00:21.168 <a href='https://www.golem.de/news/joe-biden-stellenanzeige-im-quellcode-von-whitehouse-gov-versteckt-2101-153596.html'>White House: Stellengesuch</a></div>
+<div class='pscContent'>02:01:26.168 <a href='https://www.golem.de/news/eu-neues-energielabel-fuer-fernseher-und-monitore-kommt-2101-153488.html'>Neues Energielabel</a></div>
+<div class='pscContent'>02:04:11.168 <a href='https://twitter.com/stammtischphilo/status/1352531592095395840'>Flash-Fail</a></div>
+<div class='pscContent'>02:06:19.168 <a href='https://twitter.com/tmigge/status/1352692931589763077'>Flash-Win</a></div>
+<div class='pscContent'>02:11:50.168 <a href='https://www.golem.de/news/chiffriermaschine-taucher-bergen-sechs-enigmas-aus-dem-zweiten-weltkrieg-2101-153624.html'>Sechsma Enigma</a></div>
+<div class='pscContent'>02:15:19.168 <a href='https://twitter.com/stammtischphilo/status/1353425802642259968'>Oles Cloud kann Twitter</a></div>
+<div class='pscContent'>02:17:12.168 <a href='https://twitter.com/tmigge/status/1351928281038282752'>Schrauben-K(r)ampf</a></div>
+<div class='pscContent'>02:23:34.168 <a href='https://twitter.com/stammtischphilo/status/1353624598311481345'>Jira-Fail</a></div>
+<div class='pscContent'>02:26:26.168 <a href='https://www.meine-url-ist-laenger-als-deine.de/jsfp300/'>Gesches digitale Kirche</a></div>
+<div class='pscContent'>02:31:10.168 <a href='https://www.theguardian.com/environment/2021/jan/19/electric-car-batteries-race-ahead-with-five-minute-charging-times?utm'>Fünf-Minuten-Akku</a></div>
+<div class='pscContent'>02:33:38.168 <a href='https://www.golem.de/news/gesichtserkennung-wenn-das-gesicht-die-politische-einstellung-verraet-2101-153512.html'>Polit-Gesichtserkennung</a></div>
+<div class='pscContent'>02:38:21.168 <a href='https://www.golem.de/news/cyberbunker-prozess-mitarbeiter-speicherten-server-passwoerter-in-excel-tabelle-2101-153518.html'>Cyberbunker-Fail</a></div>
+<div class='pscContent'>02:40:42.168 <a href='https://www.golem.de/news/citkar-deutsche-telekom-testet-elektrotretauto-2101-153526.html'>Elektrotretauto</a></div>
+<div class='pscContent'>02:42:11.168 <a href='https://www.golem.de/news/raspberry-pi-pico-der-erste-raspberry-pi-mikrocontroller-ist-da-2101-153576.html'>Raspberry Pico</a></div>
+<div class='pscContent'>02:42:39.168 <a href='https://www.golem.de/news/streaming-paramount-startet-im-maerz-2101-153528.html'>Paramount+</a></div>
+<div class='pscContent'>02:43:47.168 <a href='https://d23.com/disney-gets-celebrational-with-original-muppet-show-plus-more-in-news-briefs/'>Muppets auf Disney+</a></div>
+<div class='pscContent'>02:46:39.168 <a href='https://twitter.com/stammtischphilo/status/1352333930633039876'>Schlachthaus-Regeln</a></div>
+<div class='pscContent'>02:50:06.168 <a href='https://twitter.com/stammtischphilo/status/1353324210421178368'>Love Story</a></div>
+<div class='pscContent'>02:52:24.168 <a href='https://www.deutscherentwicklerpreis.de/'>Budimann goes Tagesschau</a></div>
+<div class='pscContent'>02:53:40.168 <a href='https://www.golem.de/news/spielebranche-microsoft-nimmt-preiserhoehung-fuer-xbox-live-gold-zurueck-2101-153633.html'>Gamepass-Fail</a></div>
+<div class='pscContent'>02:54:43.168 <a href='https://www.golem.de/news/geoblocking-eu-verhaengt-millionenstrafe-gegen-valve-und-andere-publisher-2101-153556.html'>Valve und Co. zahlen Strafe</a></div>
+<div class='pscContent'>02:57:06.168 <a href='https://www.mopo.de/sport/fc-st-pauli/berater-sucht-neuen-klub-das-projekt-brodersen-ist-bei-st--pauli-gescheitert-37961684'>Brodersen auf dem Sprung</a></div>
+<div class='pscContent'>02:59:58.168 <a href='https://www.fcstpauli.com/matches/2020-2021-17-fc-st-pauli-vs-ssv-jahn-regensburg/'>Raus aus dem Keller</a></div>
+<div class='pscContent'>03:03:35.168 <a href='https://twitter.com/stammtischphilo/status/1353673622439800832'>Leasing is not pleasing</a></div>
+<div class='pscContent'>03:07:23.168 <a href='https://twitter.com/tmigge/status/1352577537378033667'>Regal-Rettung</a></div>
+<div class='pscContent'>03:13:24.168 <a href='https://twitter.com/stammtischphilo/status/1353349663055900672'>Post- und Pre-Geschenke</a></div>
+<div class='pscContent'>03:31:49.168 <a href='https://twitter.com/Guacam_Olee/status/1351632050751741952'>Home-Assistant continued</a></div>
+<div class='pscContent'>03:34:44.168 <a href='https://twitter.com/tmigge/status/1352970191924289541'>#bucketsort continued</a></div>
+<div class='pscContent'>03:41:52.168 <a href='https://www.blathering.de/2019/09/blathering-092-die-nummer-eins-der-stadt-sind-wir/'>Vor 70 Folgen: Blathering 92</a></div>
+<p></br></br></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.blathering.de/2021/01/blathering-162-kein-pardon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1179</post-id>	</item>
+	</channel>
+</rss>
