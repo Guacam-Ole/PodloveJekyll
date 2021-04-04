@@ -22,7 +22,7 @@ Brought to you by: [Podcast.Itunes.Author]
 
 This Episode contains [Episode.Chapters.Count] Chapters:
 
-[LOOP.Episode.Chapters]
-[Episode.Chapters.Chapter.Duration] \[[Episode.Chapters.Chapter.Title]\](Episode.Chapters.Chapter.Url)
+[LOOP Episode.Chapters]
+[Episode.Chapters.Chapter.Start] \[[Episode.Chapters.Chapter.Title]\]([Episode.Chapters.Chapter.Url])
 [POOL]
 

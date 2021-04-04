@@ -37,34 +37,31 @@ namespace Feed2Md
         private void CreateMainPage(Podcast podcast)
         {
             GetExportConfig("podcast", out string targetPath, out string targetFile);
-            if (string.IsNullOrEmpty(targetPath) || string.IsNullOrEmpty(targetFile) ) return;
+            if (string.IsNullOrEmpty(targetPath) || string.IsNullOrEmpty(targetFile)) return;
 
-            var targetFileContents = new List<string>();
-            var podcastTemplate=File.ReadAllLines("./templates/podcast.md");
-            foreach (string line in podcastTemplate)
-            {
-                string tokenizedLine = TokenHelper.ReplaceTokens(line, podcast, "Podcast.");
-                tokenizedLine = TokenHelper.ReplaceTokens(tokenizedLine, _globalTemplateVariables, "Global.");
-                targetFileContents.Add(tokenizedLine.CleanString());
-            }
+            var podcastTemplate = File.ReadAllText("./templates/podcast.md");
 
-            targetPath = TokenHelper.ReplaceTokens(targetPath, podcast, "Podcast.").CleanString( CleanMode.InPath);
+            string tokenizedContent = TokenHelper.ReplaceTokens(podcastTemplate, podcast, "Podcast.");
+            tokenizedContent = TokenHelper.ReplaceTokens(tokenizedContent, _globalTemplateVariables, "Global.");
+            var targetFileContents=tokenizedContent.CleanString();
+
+            targetPath = TokenHelper.ReplaceTokens(targetPath, podcast, "Podcast.").CleanString(CleanMode.InPath);
             targetFile = TokenHelper.ReplaceTokens(targetFile, podcast, "Podcast.").CleanString(CleanMode.InFile);
 
             Directory.CreateDirectory(targetPath);
-            
-            File.WriteAllLines(Path.Combine(targetPath, targetFile), targetFileContents);
+
+            File.WriteAllText(Path.Combine(targetPath, targetFile), targetFileContents);
         }
 
         private void CreateEpisodePages(Podcast podcast)
         {
             GetExportConfig("episode", out string targetPath, out string targetFile);
             if (string.IsNullOrEmpty(targetPath) || string.IsNullOrEmpty(targetFile)) return;
-            var podcastTemplate = File.ReadAllLines("./templates/episode.md");
+            var podcastTemplate = File.ReadAllText("./templates/episode.md");
 
             foreach (var episode in podcast.Episodes)
             {
-                var targetFileContents = new List<string>();
+                string targetFileContents;
                 string episodePath = TokenHelper.ReplaceTokens(targetPath, episode, "Episode.").CleanString(CleanMode.InPath);
                 string episodeFile = TokenHelper.ReplaceTokens(targetFile, episode, "Episode.").CleanString(CleanMode.InFile);
 
@@ -72,17 +69,12 @@ namespace Feed2Md
                 string newLink = Path.Combine(episodePath, episodeFile);
                 episode.Link = Path.Combine(_configuration.GetSection("baseurl").Value, newLink);
 
-                foreach (string line in podcastTemplate)
-                {
-                    string tokenizedLine = TokenHelper.ReplaceTokens(line, episode, "Episode.");
-                    tokenizedLine = TokenHelper.ReplaceTokens(tokenizedLine, podcast, "Podcast.");
-                    tokenizedLine = TokenHelper.ReplaceTokens(tokenizedLine, _globalTemplateVariables, "Global.");
-                    targetFileContents.Add(tokenizedLine.CleanString());
-                }
+                string tokenizedContent = TokenHelper.ReplaceTokens(podcastTemplate, episode, "Episode.");
+                tokenizedContent = TokenHelper.ReplaceTokens(tokenizedContent, podcast, "Podcast.");
+                tokenizedContent = TokenHelper.ReplaceTokens(tokenizedContent, _globalTemplateVariables, "Global.");
+                targetFileContents = tokenizedContent.CleanString();
 
-                
-
-                File.WriteAllLines(newLink, targetFileContents);
+                File.WriteAllText(newLink, targetFileContents);
             }
         }
     }

@@ -21,10 +21,11 @@ namespace Feed2Md
 
         public static string ReplaceTokens(string textContainingTokens, object rootObject, string prefix)
         {
+            textContainingTokens=ReplaceLoops(textContainingTokens, rootObject, prefix);
             var allTokens = GetTokensinString(textContainingTokens);
             foreach (var token in allTokens)
             {
-                var replacedTokenProperty = ReplaceToken(prefix, rootObject, token, out object replacedToken);
+                var replacedTokenProperty = GetTokenReplacement(prefix, rootObject, token, out object replacedToken);
                 if (replacedTokenProperty != null) textContainingTokens = textContainingTokens.Replace($"[{token}]", replacedToken?.ToString());
             }
             return textContainingTokens;
@@ -103,19 +104,45 @@ namespace Feed2Md
 
         //}
 
+        private static string ReplaceLoops(string textContainingTokens, object rootObject, string prefix)
+        {
+            bool hasLoops = true;
+            while (true)
+            {
+                int loopStart = textContainingTokens.IndexOf("[LOOP ");
+                if (loopStart < 0)
+                    break;
+                int eol = textContainingTokens.IndexOf("]", loopStart);
+                int loopEnd = textContainingTokens.IndexOf("[POOL]");
+                if (loopEnd < loopStart || eol < loopStart)
+                    break;
+                string innnerText = textContainingTokens.Substring(eol + 1, loopEnd - eol-1);
+                string outerText= textContainingTokens.Substring(loopStart, loopEnd - loopStart+6);
 
-        //private static string ReplaceEachLoop(string loopContent, object rootObject, IEnumerable list, string prefix)
-        //{
+                string listPropertyName = textContainingTokens.Substring(loopStart + 6, eol - loopStart - 6);
+                var property = GetTokenReplacement(prefix, rootObject, listPropertyName, out object listContent);
+                string replacement = string.Empty;
+                if (property!=null && listContent!=null)
+                {
+                    var listProperty = (IEnumerable)listContent;
+                    foreach (var item in listProperty)
+                    {
+                        string innerPrefix = $"{prefix}{property.Name}.{item.GetType().Name}.";
+                        string itemContent = ReplaceTokens(innnerText, item, innerPrefix);
+                        replacement += itemContent;
+                    }
+                }
+                textContainingTokens= textContainingTokens.Replace(outerText, replacement);
 
-        //    // Magic shit to be inserted here
-        //    foreach (var listitem in list)
-        //    {
-        //        ReplaceTokens(loopContent, listitem, prefix);
-        //    }
-        //}
+            }
+            return textContainingTokens;
+        }
 
 
-        private static PropertyInfo ReplaceToken(string parentPath, object parentObject, string token, out object propertyContent)
+    
+
+
+        private static PropertyInfo GetTokenReplacement(string prefix, object parentObject, string token, out object propertyContent)
         {
             foreach (var property in parentObject.GetType().GetProperties())
             {
@@ -131,14 +158,14 @@ namespace Feed2Md
                 {
                     propertyContent = property.GetValue(parentObject);
                 } 
-                string propertyPath = parentPath + property.Name;
+                string propertyPath = prefix + property.Name;
                 if (propertyPath == token)
                     return property;
                 string child = propertyPath + ".";
 
                 if (token.Contains(child) && propertyContent != null)
                 {
-                    return ReplaceToken(child, propertyContent, token, out propertyContent);
+                    return GetTokenReplacement(child, propertyContent, token, out propertyContent);
                 }
             }
 

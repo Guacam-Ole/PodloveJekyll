@@ -16,7 +16,7 @@ Brought to you by: [Podcast.Itunes.Author]
 
 This Podcast contains [Podcast.Episodes.Count] Episodes
 
-[LOOP.Podcast.Episodes]
-\[[Podcast.Episode.Title]\](Podcast.Episode.Link) 
+[LOOP Podcast.Episodes]
+\[[Podcast.Episodes.Episode.Title]\]([Podcast.Episodes.Episode.Link]) 
 [POOL]
 
