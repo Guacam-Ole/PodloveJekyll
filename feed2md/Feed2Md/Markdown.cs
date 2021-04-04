@@ -23,8 +23,8 @@ namespace Feed2Md
 
         public void CreateMarkdownFiles(Podcast podcast)
         {
+            CreateEpisodePages(ref podcast);
             CreateMainPage(podcast);
-            CreateEpisodePages(podcast);
         }
 
         private void GetExportConfig(string subsection, out string path, out string file)
@@ -53,7 +53,7 @@ namespace Feed2Md
             File.WriteAllText(Path.Combine(targetPath, targetFile), targetFileContents);
         }
 
-        private void CreateEpisodePages(Podcast podcast)
+        private void CreateEpisodePages(ref Podcast podcast)
         {
             GetExportConfig("episode", out string targetPath, out string targetFile);
             if (string.IsNullOrEmpty(targetPath) || string.IsNullOrEmpty(targetFile)) return;

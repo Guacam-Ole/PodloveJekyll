@@ -112,14 +112,7 @@ namespace Feed2Md
             return foundTokens;
         }
 
-        //private IEnumerable DrillDownToList(string parentPath, object parentObject, string token)
-        //{
-        //    foreach (var property in parentObject.GetType().GetProperties())
-        //    {
-        //        if (!property.CanRead) continue;
-        //    }
-
-        //}
+  
 
         private static string ReplaceLoops(string textContainingTokens, object rootObject, string prefix)
         {
@@ -191,38 +184,6 @@ namespace Feed2Md
             return null;    
         }
 
-        //private static string ReplaceToken(string parentPath, object parentObject, string token)
-        //{
-        //    var property = GetPropertyForToken(parentPath, parentObject, token, out string replacedToken);
-        //    if (property == null) return null;
-
-
-        //    foreach (var property in parentObject.GetType().GetProperties())
-        //    {
-        //        if (!property.CanRead) continue;
-        //        var value = property.GetValue(parentObject);
-        //        string propertyPath = parentPath + property.Name;
-        //        if (propertyPath == token)
-        //            return value?.ToString();
-        //        string child = propertyPath + ".";
-
-        //        if (property.PropertyType != typeof(string) && typeof(IEnumerable).IsAssignableFrom(property.PropertyType))
-        //        {
-        //            foreach (var subelement in (IEnumerable)value)
-        //            {
-        //                var replacedToken = ReplaceToken(child + subelement.GetType().Name + ".", subelement, token);
-        //                if (replacedToken != null) return replacedToken;
-        //            }
-        //        }
-        //        else
-        //        {
-        //            if (token.Contains(child) && value != null)
-        //            {
-        //                return ReplaceToken(child, value, token);
-        //            }
-        //        }
-        //    }
-        //    return null;    // Nothing found
-        //}
+      
     }
 }
