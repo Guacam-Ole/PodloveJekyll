@@ -34,15 +34,19 @@ namespace Feed2Md
         public static string CleanString(this string pathContainingTokens, CleanMode cleanMode = CleanMode.InTextFile)
         {
             var cleanedString = pathContainingTokens.Replace("\\[", "[").Replace("\\]", "]");
-            char[] invalidCharacters = new char[0];
+            string invalidCharacters = string.Empty;
 
             switch (cleanMode)
             {
                 case CleanMode.InFile:
-                    invalidCharacters = System.IO.Path.GetInvalidFileNameChars();
+                    invalidCharacters = new string(System.IO.Path.GetInvalidFileNameChars());
+                    //invalidCharacters += "!*'();:@&=+$,?%#[]";
+                    cleanedString = NoUtf(cleanedString);
+
                     break;
                 case CleanMode.InPath:
-                    invalidCharacters = System.IO.Path.GetInvalidPathChars();
+                    invalidCharacters = new string(System.IO.Path.GetInvalidPathChars());
+                    cleanedString = NoUtf(cleanedString);
                     break;
             }
             foreach (char badCharacter in invalidCharacters)
@@ -51,6 +55,19 @@ namespace Feed2Md
             }
 
             return cleanedString;
+        }
+
+        private static string NoUtf(string content)
+        {
+            while (true)
+            {
+                int utfstart = content.IndexOf("&#");
+                if (utfstart < 0) break;
+                int utfend = content.IndexOf(";", utfstart);
+                if (utfend < utfstart) break;
+                content = content.Replace(content.Substring(utfstart, utfend - utfstart+1),"_");
+            }
+            return content;
         }
 
         private static List<string> GetTokensinString(string pathContainingTokens)
