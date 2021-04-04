@@ -19,18 +19,18 @@ namespace Feed2Md
     public static class TokenHelper
     {
 
-        public static string ReplaceTokens(string pathContainingTokens, object rootObject, string prefix)
+        public static string ReplaceTokens(string textContainingTokens, object rootObject, string prefix)
         {
-            var allTokens = GetTokensinString(pathContainingTokens);
+            var allTokens = GetTokensinString(textContainingTokens);
             foreach (var token in allTokens)
             {
-                var replacedToken = ReplaceToken(prefix, rootObject, token);
-                if (replacedToken != null) pathContainingTokens = pathContainingTokens.Replace($"[{token}]", replacedToken);
+                var replacedTokenProperty = ReplaceToken(prefix, rootObject, token, out object replacedToken);
+                if (replacedTokenProperty != null) textContainingTokens = textContainingTokens.Replace($"[{token}]", replacedToken?.ToString());
             }
-            return pathContainingTokens;
+            return textContainingTokens;
         }
 
-        public static string CleanString(this string pathContainingTokens, CleanMode cleanMode= CleanMode.InTextFile)
+        public static string CleanString(this string pathContainingTokens, CleanMode cleanMode = CleanMode.InTextFile)
         {
             var cleanedString = pathContainingTokens.Replace("\\[", "[").Replace("\\]", "]");
             char[] invalidCharacters = new char[0];
@@ -94,46 +94,91 @@ namespace Feed2Md
             return foundTokens;
         }
 
+        //private IEnumerable DrillDownToList(string parentPath, object parentObject, string token)
+        //{
+        //    foreach (var property in parentObject.GetType().GetProperties())
+        //    {
+        //        if (!property.CanRead) continue;
+        //    }
 
-        private static void EachLoop()
+        //}
+
+
+        //private static string ReplaceEachLoop(string loopContent, object rootObject, IEnumerable list, string prefix)
+        //{
+
+        //    // Magic shit to be inserted here
+        //    foreach (var listitem in list)
+        //    {
+        //        ReplaceTokens(loopContent, listitem, prefix);
+        //    }
+        //}
+
+
+        private static PropertyInfo ReplaceToken(string parentPath, object parentObject, string token, out object propertyContent)
         {
-            // Magic shit to be inserted here
-        }
-
-        private static string ReplaceToken(string parentPath, object parentObject, string token)
-        {
-            if (token.StartsWith("EACH"))
-            {
-                EachLoop();
-                return string.Empty;
-            }
-
             foreach (var property in parentObject.GetType().GetProperties())
             {
                 if (!property.CanRead) continue;
-                var value = property.GetValue(parentObject);
-                string propertyPath = parentPath + property.Name;
-                if (propertyPath == token)
-                    return value?.ToString();
-                string child = propertyPath + ".";
 
+                propertyContent = null;
                 if (property.PropertyType != typeof(string) && typeof(IEnumerable).IsAssignableFrom(property.PropertyType))
                 {
-                    foreach (var subelement in (IEnumerable)value)
-                    {
-                        var replacedToken = ReplaceToken(child + subelement.GetType().Name + ".", subelement, token);
-                        if (replacedToken != null) return replacedToken;
-                    }
+                    propertyContent = property.GetValue(parentObject);
+
                 }
-                else
+                else if (property.Name != "Item") 
                 {
-                    if (token.Contains(child) && value != null)
-                    {
-                        return ReplaceToken(child, value, token);
-                    }
+                    propertyContent = property.GetValue(parentObject);
+                } 
+                string propertyPath = parentPath + property.Name;
+                if (propertyPath == token)
+                    return property;
+                string child = propertyPath + ".";
+
+                if (token.Contains(child) && propertyContent != null)
+                {
+                    return ReplaceToken(child, propertyContent, token, out propertyContent);
                 }
             }
-            return null;    // Nothing found
+
+            // Nothing found:
+            propertyContent = null;
+            return null;    
         }
+
+        //private static string ReplaceToken(string parentPath, object parentObject, string token)
+        //{
+        //    var property = GetPropertyForToken(parentPath, parentObject, token, out string replacedToken);
+        //    if (property == null) return null;
+
+
+        //    foreach (var property in parentObject.GetType().GetProperties())
+        //    {
+        //        if (!property.CanRead) continue;
+        //        var value = property.GetValue(parentObject);
+        //        string propertyPath = parentPath + property.Name;
+        //        if (propertyPath == token)
+        //            return value?.ToString();
+        //        string child = propertyPath + ".";
+
+        //        if (property.PropertyType != typeof(string) && typeof(IEnumerable).IsAssignableFrom(property.PropertyType))
+        //        {
+        //            foreach (var subelement in (IEnumerable)value)
+        //            {
+        //                var replacedToken = ReplaceToken(child + subelement.GetType().Name + ".", subelement, token);
+        //                if (replacedToken != null) return replacedToken;
+        //            }
+        //        }
+        //        else
+        //        {
+        //            if (token.Contains(child) && value != null)
+        //            {
+        //                return ReplaceToken(child, value, token);
+        //            }
+        //        }
+        //    }
+        //    return null;    // Nothing found
+        //}
     }
 }
