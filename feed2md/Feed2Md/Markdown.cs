@@ -23,8 +23,8 @@ namespace Feed2Md
 
         public void CreateMarkdownFiles(Podcast podcast)
         {
-            CreateMainPage(podcast);
             CreateEpisodePages(podcast);
+            CreateMainPage(podcast);
         }
 
         private void GetExportConfig(string subsection, out string path, out string file)
