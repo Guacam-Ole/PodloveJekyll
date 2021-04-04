@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feed2Md", "Feed2Md.csproj", "{EA45A3C7-37CC-42DA-9D68-54C6A45B8BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA45A3C7-37CC-42DA-9D68-54C6A45B8BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA45A3C7-37CC-42DA-9D68-54C6A45B8BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA45A3C7-37CC-42DA-9D68-54C6A45B8BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA45A3C7-37CC-42DA-9D68-54C6A45B8BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59BDAC6B-2108-499E-88B7-C24571367451}
+	EndGlobalSection
+EndGlobal
