@@ -6,6 +6,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using System.Text.RegularExpressions;
 
 namespace Feed2Md
 {
@@ -34,28 +35,26 @@ namespace Feed2Md
         public static string CleanString(this string pathContainingTokens, CleanMode cleanMode = CleanMode.InTextFile)
         {
             var cleanedString = pathContainingTokens.Replace("\\[", "[").Replace("\\]", "]");
-            string invalidCharacters = string.Empty;
-
+            
             switch (cleanMode)
             {
+             
+                
                 case CleanMode.InFile:
-                    invalidCharacters = new string(System.IO.Path.GetInvalidFileNameChars());
-                    //invalidCharacters += "!*'();:@&=+$,?%#[]";
-                    cleanedString = NoUtf(cleanedString);
+                    // TODO: MaxLenth
+                    cleanedString= Regex.Replace(NoUtf(cleanedString), @"[^\w\d\.]", "_");
+
 
                     break;
                 case CleanMode.InPath:
-                    invalidCharacters = new string(System.IO.Path.GetInvalidPathChars());
-                    cleanedString = NoUtf(cleanedString);
+                    cleanedString= Regex.Replace(cleanedString, @"[^\w\d\\\/]", "");
                     break;
-            }
-            foreach (char badCharacter in invalidCharacters)
-            {
-                cleanedString = cleanedString.Replace(badCharacter, '_');
+          
             }
 
             return cleanedString;
         }
+
 
         private static string NoUtf(string content)
         {
